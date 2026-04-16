@@ -54,6 +54,7 @@ Real-time system monitoring with a clean, intuitive dashboard.
 - **Network** — upload/download speeds, latency, packet loss
 - **Health Score** — composite 0–100 system health rating
 - **Advisor Panel** — smart insights with hardware upgrade recommendations
+- **Anti-Cheat** — Smart detection system that identifies risky applications, kernel-level drivers, and background processes designed to bypass anti-cheat measures
 
 ---
 
