@@ -55,7 +55,7 @@ Real-time system monitoring with a clean, intuitive dashboard.
 - **Health Score** — composite 0–100 system health rating
 - **Advisor Panel** — smart insights with hardware upgrade recommendations
 
---
+---
 
 ### 🧹 Cleanup Toolkit
 **30+ cleaners** across 6 categories to reclaim disk space.
