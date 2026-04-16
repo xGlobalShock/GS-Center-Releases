@@ -1,0 +1,39 @@
+# ── Source code (safety net — should never appear here) ──
+*.ts
+*.tsx
+*.js
+*.jsx
+*.css
+*.html
+!README.md
+!CHANGELOG.md
+!LICENSE
+
+# ── Dependencies ──
+node_modules/
+package-lock.json
+package.json
+
+# ── Build configs ──
+tsconfig*.json
+tailwind.config.*
+postcss.config.*
+.eslintrc*
+.prettierrc*
+
+# ── Environment ──
+.env
+.env.*
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── Logs ──
+*.log
