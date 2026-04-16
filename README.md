@@ -55,41 +55,16 @@ Real-time system monitoring with a clean, intuitive dashboard.
 - **Health Score** — composite 0–100 system health rating
 - **Advisor Panel** — smart insights with hardware upgrade recommendations
 
----
-
-### ⚡ PC Tweaks
-Apply **17 registry-level performance tweaks** with one click across 7 categories:
-
-| Category | What's Optimized |
-|----------|-----------------|
-| CPU | IRQ Priority, Win32 Priority Separation |
-| GPU | Hardware-Accelerated GPU Scheduling, TDR Level |
-| Memory | Memory Compression, Large System Cache |
-| Network | Interrupt Priority, Network Throttling |
-| Display | Fullscreen Optimizations, DWM Overlay, FSE Behavior |
-| Game DVR | Game DVR, App Capture, GDRV Policy |
-| Hardware | USB Selective Suspend, Game Priority |
-
-Toggle individually or batch apply. One-click reset per tweak.
-
----
-
-### 🖥️ Overlay HUD
-Frameless, always-on-top gaming overlay displaying real-time metrics without interrupting your game.
-
-- FPS, CPU %, GPU %, temperatures, RAM %, latency, packet loss, network speed
-- Customizable: accent color, font, opacity, position, per-metric toggles
-- Global hotkey: `Ctrl+Shift+F`
-
----
+--
 
 ### 🧹 Cleanup Toolkit
 **30+ cleaners** across 6 categories to reclaim disk space.
 
 - **Windows** — temp files, update cache, DNS cache, logs, crash dumps, thumbnails, and more
 - **Games** — shader caches for 11 popular titles (Apex Legends, CS2, Valorant, Fortnite, and more)
-- **NVIDIA** — driver cache cleanup (DXCache / GLCache)
-- Batch clean with live progress tracking per task
+- **NVIDIA** — driver cache cleanup (DXCache / GLCache) will be adding more in the future
+- **Win Tweaks** — Updating...
+- **Win Preferences** — Updating...
 
 ---
 
@@ -99,7 +74,7 @@ Diagnose and repair Windows integrity issues from within the app.
 - **SFC** — System File Checker with real-time progress
 - **DISM** — Windows Image Repair with live progress
 - **ChkDsk** — Disk Check with live output
-- Floating repair overlay for monitoring during long repairs
+- **Network Repair** — Updating...
 
 ---
 
