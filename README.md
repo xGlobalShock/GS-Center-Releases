@@ -163,31 +163,6 @@ Manage display resolutions and refresh rates.
 
 ---
 
-## Pro Features
-
-Unlock the full power of GS Center with **Pro**:
-
-| Feature | Free | Pro |
-|---------|:----:|:---:|
-| Dashboard & Live Metrics | ✅ | ✅ |
-| PC Tweaks (17 tweaks) | ✅ | ✅ |
-| System Repair | ✅ | ✅ |
-| Overlay HUD | ✅ | ✅ |
-| Cleanup Toolkit | ✅ | ✅ |
-| Games Manager | ✅ | ✅ |
-| Network Diagnostics | ✅ | ✅ |
-| OBS Presets | ✅ | ✅ |
-| App Installer / Uninstaller | ✅ | ✅ |
-| Startup Manager | ✅ | ✅ |
-| Resolution Manager | ✅ | ✅ |
-| System Restore Points | ❌ | ✅ |
-| Software Updater | ❌ | ✅ |
-| Windows Debloat (100+ apps) | ❌ | ✅ |
-| Service Optimizer (60+ services) | ❌ | ✅ |
-| Space Analyzer | ❌ | ✅ |
-
----
-
 ## System Requirements
 
 | Requirement | Details |
