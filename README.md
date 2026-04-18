@@ -22,9 +22,7 @@
 
 ## What is GS Center?
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bbe5bd93-24cf-4942-8718-f19e751ab52e" alt="GS Center" width="800" />
-</p>
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/45c0a305-e773-437e-9d31-5c4d477bebd8" />
 
 **GS Center** is a powerful all-in-one desktop utility designed for **gamers**, **streamers**, and **PC enthusiasts**. Whether you're setting up a fresh Windows install, squeezing out extra FPS, or monitoring your system during a live stream — GS Center has you covered.
 
