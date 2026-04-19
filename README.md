@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bbe5bd93-24cf-4942-8718-f19e751ab52e" alt="GS Center" width="800" />
-</p>
-
 <h1 align="center">GS Center</h1>
 
 <p align="center">
@@ -20,6 +16,10 @@
 
 <p align="center">
   Real-time monitoring &bull; Smart optimizations &bull; One-click setup &bull; No bloat
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bbe5bd93-24cf-4942-8718-f19e751ab52e" alt="GS Center" width="800" />
 </p>
 
 ---
