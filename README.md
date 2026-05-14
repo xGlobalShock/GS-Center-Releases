@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Real-time monitoring • Smart optimizations • One-click setup • Zero bloat
+  Real-time insights • Smart optimization • One-click control • Zero clutter
 </p>
 
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
@@ -23,158 +23,67 @@
 
 ## What is GS Center
 
-GS Center is a desktop utility built for gamers, streamers, and PC enthusiasts who want full control over their system without unnecessary complexity.
+GS Center is a unified desktop experience designed for gamers, streamers, and performance-focused users who want more control over their system without dealing with complexity.
 
-It combines real-time hardware monitoring, performance optimization, cleanup tools, and game configuration into a single, streamlined interface.
+It brings together everything you need to monitor, optimize, and manage your PC into a single, streamlined interface.
 
-Sign in with Discord or Twitch. No account creation, no forms, no clutter.
-
-One application. Everything you need.
+No unnecessary setup. No clutter. Just control.
 
 ---
 
-## Download and Install
+## Download
 
-1. Download the latest version  
-   https://github.com/xGlobalShock/GS-Center-Releases/releases/latest  
+Get the latest version here:  
+https://github.com/xGlobalShock/GS-Center-Releases/releases/latest  
 
-2. Run `GS-Center-Setup-x.x.x.exe`
-
-3. The app launches automatically after installation
-
-Auto-updates are built in, so you will always stay on the latest version without manual updates.
+Install, launch, and you're ready to go.
 
 ---
 
-## Features
+## Why GS Center
 
-### Dashboard and Live Metrics
+Modern systems are powerful, but managing them efficiently is not always simple. GS Center simplifies that process by giving you direct access to essential tools and insights in one place.
 
-Real-time system monitoring with updates every 500 milliseconds while active.
-
-- CPU usage, per-core load, clock speed, power draw, temperature  
-- GPU load, VRAM usage, clock speed, fan speed, temperature  
-- RAM usage, cache breakdown, and top processes  
-- Disk read and write speeds, health estimate, temperature  
-- Network upload and download speeds, latency, packet loss  
-- Health Score with a 0 to 100 system rating  
-- Advisor Panel with intelligent insights and upgrade suggestions  
-- Anti-Cheat Checker to detect risky processes and drivers  
+Whether you are gaming, streaming, or just want your system running at its best, GS Center helps you stay in control.
 
 ---
 
-### PC Tweaks (Free and Pro)
+## Core Features
 
-Registry-based optimizations applied instantly, with System Restore support.
+### Performance Overview
+Stay informed with a clear, real-time view of your system’s status, performance, and overall health.
 
-- CPU and priority tuning to reduce latency and boost foreground performance  
-- GPU settings including hardware accelerated scheduling and timeout control  
-- Memory optimizations to improve allocation and caching  
-- Network prioritization and throttling adjustments  
-- Display tweaks including fullscreen optimization and DWM settings  
-- Game DVR and Xbox Game Bar disabling  
-- Hardware controls such as USB selective suspend  
+### Smart Optimization
+Apply performance-focused adjustments designed to improve responsiveness and stability with minimal effort.
 
----
+### System Cleanup
+Free up space and keep your system running smoothly with built-in cleanup tools.
 
-### Cleanup Toolkit (Partially Free)
-
-Over 30 cleaning tools across multiple categories to reclaim disk space.
-
-- Windows cache including temp files, logs, crash dumps, DNS cache, update files  
-- Game shader cache cleanup for major titles  
-- NVIDIA cache cleanup including DXCache and GLCache  
-- System repair tools such as SFC, DISM, and Check Disk with live output  
-- Windows tweaks including telemetry, services, and system behavior  
-- User preferences such as dark mode, file visibility, and input settings  
-
----
-
-### Game Library
-
-Built-in support for competitive games with configuration tools.
-
-Supported titles include Apex Legends, Valorant, CS2, Fortnite, League of Legends, Rocket League, Overwatch, and Call of Duty.
-
-- Configuration editor for resolution, graphics, and launch options  
-- Automatic backup and restore of game configs  
-- Hardware comparison with estimated FPS performance  
-- Custom resolution builder with multiple aspect ratios  
-
----
+### Game Integration
+Manage and prepare your favorite games from within a single environment.
 
 ### Network Tools
+Monitor connection quality and run essential diagnostics when it matters most.
 
-Built-in diagnostics and monitoring for your connection.
+### Streaming Setup
+Get up and running with a ready-to-use streaming configuration in seconds.
 
-- Ping tests across global regions  
-- Traceroute with live hop tracking  
-- Speed tests using multiple providers  
-- Latency indicators for quick quality assessment  
+### Application Management
+Install, remove, and organize software without jumping between multiple tools.
 
----
-
-### OBS Stream Presets
-
-Instantly deploy a complete streaming setup.
-
-- Prebuilt scenes such as Gaming, Starting Soon, BRB, and Ending  
-- Optimized capture, audio, and encoding settings  
-- Twitch-ready configuration  
-- One-click deployment with automatic launch  
+### Device Control
+Manage displays, peripherals, and system preferences from one place.
 
 ---
 
-### Apps Manager
+## Built for Simplicity
 
-Comprehensive control over installed applications.
+GS Center is designed to be fast, lightweight, and easy to use.
 
-**App Installer**  
-Install over 40 curated applications across multiple categories.
-
-**App Uninstaller**  
-Deep removal including leftover files, registry entries, and services.
-
-- Detection via registry, WMI, and AppX  
-- Cleanup of orphaned files and tasks  
-- Multiple scan levels: Safe, Moderate, Advanced  
-
-**Windows Debloat**  
-Remove unnecessary built-in apps and features.
-
-**Startup Manager**  
-Control startup programs with filtering and live status.
-
-**Disk Space Analyzer**  
-Visual breakdown of storage usage with recursive scanning.
-
----
-
-### Software Updates
-
-Update all installed applications in one place using winget.
-
-- Batch updates  
-- Cancel support  
-- Simple and fast workflow  
-
----
-
-### Devices
-
-**Resolution Manager**  
-View and apply supported resolutions and refresh rates for all displays.
-
-**Mouse Configuration**  
-Adjust DPI, polling rate, and settings for supported brands including Razer, Logitech, SteelSeries, and Corsair.
-
----
-
-### PC Report Card
-
-Generate a shareable summary of your system.
-
-Includes specifications, health score, applied tweaks, and performance insights. Export as an image or copy to clipboard.
+- Clean and modern interface  
+- Minimal setup required  
+- Focused on performance and usability  
+- No unnecessary background processes  
 
 ---
 
@@ -183,32 +92,26 @@ Includes specifications, health score, applied tweaks, and performance insights.
 | Requirement | Details |
 |------------|--------|
 | OS | Windows 10 or Windows 11 (64-bit) |
-| Permissions | Administrator access required for advanced features |
-| Internet | Required for login, updates, and network tools |
-
----
-
-## Screenshots
-
-Screenshots coming soon. Install the app to explore the interface.
+| Permissions | Administrator access recommended |
+| Internet | Required for updates and online features |
 
 ---
 
 ## Roadmap
 
-- Additional game integrations  
-- Cloud sync for settings and profiles  
-- Performance benchmarking suite  
-- More features in development  
+- Expanded game support  
+- Cloud-based settings and profiles  
+- Additional performance tools  
+- Ongoing improvements and new features  
 
 ---
 
 ## Support
 
-Open an issue  
+Open an issue:  
 https://github.com/xGlobalShock/GS-Center-Releases/issues  
 
-View releases  
+View releases:  
 https://github.com/xGlobalShock/GS-Center-Releases/releases  
 
 ---
