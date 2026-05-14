@@ -17,6 +17,8 @@
   Performance • Control • Optimization • Zero clutter
 </p>
 
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
+
 ---
 
 ## Overview
