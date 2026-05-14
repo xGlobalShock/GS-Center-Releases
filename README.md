@@ -5,85 +5,243 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge" />
   <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xGlobalShock/GS-Center-Releases?style=for-the-badge&label=Download&color=brightgreen" alt="Download" />
+    <img src="https://img.shields.io/github/v/release/xGlobalShock/GS-Center-Releases?style=for-the-badge&label=Download&color=brightgreen" />
   </a>
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge&logo=windows" alt="Platform" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  Real-time insights • Smart optimization • One-click control • Zero clutter
+  Performance • Control • Optimization • Zero clutter
 </p>
 
-<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
+---
+
+## Overview
+
+GS Center is a powerful desktop application built for gamers, streamers, and performance-focused users who want full control over their system in one place.
+
+It combines monitoring, optimization, cleanup, system management, and game tools into a single streamlined experience.
+
+No unnecessary setup. No complexity. Just control.
 
 ---
 
-## What is GS Center
+## Pricing
 
-GS Center is a unified desktop experience designed for gamers, streamers, and performance-focused users who want more control over their system without dealing with complexity.
+GS Center uses a **Freemium model**:
 
-It brings together everything you need to monitor, optimize, and manage your PC into a single, streamlined interface.
+### Free Version
+Includes access to core functionality:
+- System monitoring
+- Game library tools
+- Network tools
+- OBS presets
+- Software updates
+- Device management
+- Basic cleanup tools
 
-No unnecessary setup. No clutter. Just control.
-
----
-
-## Download
-
-Get the latest version here:  
-https://github.com/xGlobalShock/GS-Center-Releases/releases/latest  
-
-Install, launch, and you're ready to go.
-
----
-
-## Why GS Center
-
-Modern systems are powerful, but managing them efficiently is not always simple. GS Center simplifies that process by giving you direct access to essential tools and insights in one place.
-
-Whether you are gaming, streaming, or just want your system running at its best, GS Center helps you stay in control.
+### Pro Version
+Unlocks advanced features and deeper control:
+- Advanced PC optimization tweaks
+- Full cleanup toolkit
+- Advanced app management tools
+- Extended system controls
+- Premium automation features
 
 ---
 
-## Core Features
+## Features
 
-### Performance Overview
-Stay informed with a clear, real-time view of your system’s status, performance, and overall health.
+### Dashboard and Monitoring
+- Real-time system overview
+- Hardware performance tracking
+- System health scoring
+- Smart recommendations and insights
 
-### Smart Optimization
-Apply performance-focused adjustments designed to improve responsiveness and stability with minimal effort.
+---
 
-### System Cleanup
-Free up space and keep your system running smoothly with built-in cleanup tools.
+### PC Optimization
 
-### Game Integration
-Manage and prepare your favorite games from within a single environment.
+Apply performance-focused optimizations instantly with one click.
+
+#### CPU and System
+- Foreground application prioritization
+- Input latency reduction
+- Background process optimization
+
+#### GPU
+- Hardware acceleration optimization
+- Low latency configuration
+- Graphics scheduling enhancements
+
+#### Memory
+- Memory allocation optimization
+- Cache behavior tuning
+- RAM utilization improvements
+
+#### Network
+- Network prioritization adjustments
+- Latency optimization
+- Throughput tuning
+
+#### Display
+- Fullscreen optimization control
+- Desktop rendering adjustments
+
+#### Gaming Services
+- Disable unnecessary background services
+- Game-related system optimization
+
+#### Hardware Behavior
+- USB power and performance settings
+- Device responsiveness tuning
+
+All tweaks are safely reversible.
+
+---
+
+### Cleanup Toolkit
+
+Free up space and maintain system performance.
+
+- Temporary files cleanup
+- System cache cleanup
+- Update file cleanup
+- Log and error file removal
+- Shader cache cleanup for games
+- Driver cache cleanup
+- System repair tools
+- General system maintenance tools
+
+---
+
+### Game Library
+
+Manage and optimize supported games in one place.
+
+- Built-in support for popular competitive titles
+- Game configuration management
+- Performance-based recommendations
+- Custom resolution support
+- Automatic backup handling
+
+---
 
 ### Network Tools
-Monitor connection quality and run essential diagnostics when it matters most.
 
-### Streaming Setup
-Get up and running with a ready-to-use streaming configuration in seconds.
+Monitor and test your connection.
 
-### Application Management
-Install, remove, and organize software without jumping between multiple tools.
-
-### Device Control
-Manage displays, peripherals, and system preferences from one place.
+- Ping testing across regions
+- Connection diagnostics
+- Speed testing
+- Latency analysis
 
 ---
 
-## Built for Simplicity
+### OBS Presets
 
-GS Center is designed to be fast, lightweight, and easy to use.
+Quickly deploy a ready-to-use streaming setup.
 
-- Clean and modern interface  
-- Minimal setup required  
-- Focused on performance and usability  
-- No unnecessary background processes  
+- Pre-configured scenes
+- Streaming-ready settings
+- One-click setup experience
+
+---
+
+### Apps Manager
+
+Full control over installed applications.
+
+#### Installer
+- Install curated applications quickly
+
+#### Uninstaller
+- Remove applications completely
+- Clean leftover files and data
+
+#### Startup Manager
+- Control startup programs
+- Optimize boot performance
+
+#### System Debloat
+- Remove unnecessary system components
+
+#### Storage Analyzer
+- Visualize disk usage
+- Identify large or unnecessary files
+
+---
+
+### Software Updates
+
+- Update installed applications in one place
+- Batch updates
+- Simple update management
+
+---
+
+### Device Management
+
+- Display and resolution control
+- Peripheral configuration
+- System-level device adjustments
+
+---
+
+### PC Report
+
+Generate a shareable summary of your system:
+
+- System specifications
+- Performance status
+- Applied optimizations
+- Overall health overview
+
+---
+
+## Complete PC Tweaks List
+
+### CPU and Priority
+- Foreground app priority boost  
+- System responsiveness optimization  
+- Input latency reduction  
+
+### GPU
+- Hardware acceleration optimization  
+- Low latency mode adjustments  
+- GPU timeout behavior control  
+
+### Memory
+- RAM allocation tuning  
+- System cache optimization  
+- Memory usage efficiency improvements  
+
+### Network
+- Network throttling adjustments  
+- Packet handling optimization  
+- Latency reduction tweaks  
+
+### Display
+- Fullscreen optimization control  
+- Desktop composition adjustments  
+
+### Windows Features
+- Disable Game DVR  
+- Disable Xbox Game Bar  
+- Disable background telemetry  
+
+### Services and Background
+- Disable unnecessary services  
+- Optimize background tasks  
+
+### Hardware
+- USB selective suspend control  
+- Device performance tuning  
+
+All tweaks are designed to be safe, reversible, and performance-focused.
 
 ---
 
@@ -99,10 +257,11 @@ GS Center is designed to be fast, lightweight, and easy to use.
 
 ## Roadmap
 
-- Expanded game support  
-- Cloud-based settings and profiles  
-- Additional performance tools  
-- Ongoing improvements and new features  
+- Expanded feature set  
+- More game integrations  
+- Cloud sync for profiles  
+- Advanced benchmarking tools  
+- Continuous improvements  
 
 ---
 
@@ -118,7 +277,7 @@ https://github.com/xGlobalShock/GS-Center-Releases/releases
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License
 
 ---
 
