@@ -1,4 +1,4 @@
-<h1 align="center">GS Center</h1>
+# GS Center
 
 <p align="center">
   <strong>The all-in-one performance control center for Windows gamers and streamers.</strong>
@@ -14,181 +14,211 @@
 </p>
 
 <p align="center">
-  Real-time monitoring &bull; Smart optimizations &bull; One-click setup &bull; No bloat
+  Real-time monitoring • Smart optimizations • One-click setup • Zero bloat
 </p>
 
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
 
 ---
 
-## What is GS Center?
+## What is GS Center
 
-**GS Center** is a desktop utility built for **gamers**, **streamers**, and **PC enthusiasts** who want full control over their system without the hassle. It combines real-time hardware monitoring, performance tweaks, cleanup tools, game configuration, and more — all in one clean interface.
+GS Center is a desktop utility built for gamers, streamers, and PC enthusiasts who want full control over their system without unnecessary complexity.
 
-Sign in with Discord or Twitch. No account creation, no forms, no bloat.
+It combines real-time hardware monitoring, performance optimization, cleanup tools, and game configuration into a single, streamlined interface.
 
-One app. Everything you need. Zero bloat.
+Sign in with Discord or Twitch. No account creation, no forms, no clutter.
+
+One application. Everything you need.
 
 ---
 
-## Download & Install
+## Download and Install
 
-1. **[Download the latest installer →](https://github.com/xGlobalShock/GS-Center-Releases/releases/latest)**
+1. Download the latest version  
+   https://github.com/xGlobalShock/GS-Center-Releases/releases/latest  
+
 2. Run `GS-Center-Setup-x.x.x.exe`
-3. GS Center launches automatically
 
-> **Auto-updates included** — you'll always have the latest version without doing a thing.
+3. The app launches automatically after installation
+
+Auto-updates are built in, so you will always stay on the latest version without manual updates.
 
 ---
 
 ## Features
 
-### 📊 Dashboard & Live Metrics
-Real-time system monitoring — streams data every 500ms while you're active.
+### Dashboard and Live Metrics
 
-- **CPU** — usage, per-core load, clock speed, power draw, temperature
-- **GPU** — load, VRAM usage, clock, fan speed, temperature
-- **RAM** — usage, cached memory, standby/modified pools, top processes
-- **Disk** — read/write speeds, health/lifespan estimate, temperature
-- **Network** — upload/download speeds, latency, packet loss
-- **Health Score** — composite 0–100 system health rating
-- **Advisor Panel** — smart insights with hardware upgrade recommendations
-- **Anti-Cheat Checker** — detects risky apps, kernel-level drivers, and processes that can trigger or bypass anti-cheat systems
+Real-time system monitoring with updates every 500 milliseconds while active.
 
----
-
-### 🔧 PC Tweaks `Some FREE & Some PRO`
-Registry-based performance optimizations — applied with a single click, restorable via System Restore.
-
-- **CPU & Priority** — reduce input latency, boost foreground app and game priority
-- **GPU** — enable low-latency mode (HAGS), disable GPU timeout detection
-- **Memory** — unlock full RAM capacity, expand system file cache
-- **Network** — prioritize network interrupts, disable network throttling
-- **Display** — fullscreen optimization, DWM overlay test mode
-- **Game DVR** — disable Xbox Game Bar and app capture
-- **Hardware** — USB selective suspend control
+- CPU usage, per-core load, clock speed, power draw, temperature  
+- GPU load, VRAM usage, clock speed, fan speed, temperature  
+- RAM usage, cache breakdown, and top processes  
+- Disk read and write speeds, health estimate, temperature  
+- Network upload and download speeds, latency, packet loss  
+- Health Score with a 0 to 100 system rating  
+- Advisor Panel with intelligent insights and upgrade suggestions  
+- Anti-Cheat Checker to detect risky processes and drivers  
 
 ---
 
-### 🧹 Cleanup Toolkit `Windows & Nvidia Cache are FREE, Rest PRO`
-30+ cleaners across 6 categories to free up disk space.
+### PC Tweaks (Free and Pro)
 
-- **Windows Cache** — temp files, thumbnails, logs, crash dumps, error reports, DNS cache, RAM cache, update cache, and more
-- **Game Shaders** — shader cache cleanup for Apex Legends, CS2, Valorant, Fortnite, LoL, Overwatch, Rocket League, R6, Call of Duty, Forza Horizon 5
-- **NVIDIA** — DXCache & GLCache driver cleanup
-- **System Repair** — SFC, DISM, and ChkDsk with live progress output
-- **Win Tweaks** — telemetry, activity history, hibernation, disk cleanup, services optimization, and more
-- **Win Preferences** — dark theme, centered taskbar, file extensions, hidden files, sticky keys, numlock, and more
+Registry-based optimizations applied instantly, with System Restore support.
 
----
-
-### 🎮 Game Library `FREE`
-Built-in game support for popular competitive titles.
-
-- Supported: Apex Legends, Valorant, CS2, Fortnite, League of Legends, Rocket League, Overwatch, Call of Duty
-- Pro-player config editor (resolution, graphics settings, launch options)
-- Per-game config read/write with automatic backup
-- Hardware vs. game requirements comparison with FPS prediction
-- Custom resolution builder (16:9, 16:10, 4:3, and custom)
+- CPU and priority tuning to reduce latency and boost foreground performance  
+- GPU settings including hardware accelerated scheduling and timeout control  
+- Memory optimizations to improve allocation and caching  
+- Network prioritization and throttling adjustments  
+- Display tweaks including fullscreen optimization and DWM settings  
+- Game DVR and Xbox Game Bar disabling  
+- Hardware controls such as USB selective suspend  
 
 ---
 
-### 🌐 Network `FREE`
-Diagnose and monitor your connection.
+### Cleanup Toolkit (Partially Free)
 
-- Ping tests to 10 regional gaming servers (NA, EU, Asia, Middle East, Oceania)
-- Traceroute with live hop output
-- Speed tests via Fast.com, Ookla, and testmy.net
-- Color-coded latency quality indicators
+Over 30 cleaning tools across multiple categories to reclaim disk space.
 
----
-
-### 🎥 OBS Stream Presets `FREE`
-Deploy a stream-ready OBS setup instantly.
-
-- Pre-built scenes: Gaming, Starting Soon, BRB, Ending
-- Optimized game capture, video and audio settings
-- Twitch-optimized output configuration
-- One-click deploy with auto-launch
+- Windows cache including temp files, logs, crash dumps, DNS cache, update files  
+- Game shader cache cleanup for major titles  
+- NVIDIA cache cleanup including DXCache and GLCache  
+- System repair tools such as SFC, DISM, and Check Disk with live output  
+- Windows tweaks including telemetry, services, and system behavior  
+- User preferences such as dark mode, file visibility, and input settings  
 
 ---
 
-### 📦 Apps Manager `Some Free and Some PRO`
-Everything you need to manage what's installed on your PC.
+### Game Library
 
-**App Installer** — Install 40+ curated applications across 8 categories in one click.
+Built-in support for competitive games with configuration tools.
 
-**App Uninstaller** — Remove apps with deep leftover cleaning:
-- Detects apps from registry, WMI, and AppX packages
-- Scans for orphaned files, folders, registry keys, services, and tasks
-- Three scan modes: Safe, Moderate, Advanced
+Supported titles include Apex Legends, Valorant, CS2, Fortnite, League of Legends, Rocket League, Overwatch, and Call of Duty.
 
-**Windows Debloat** — Remove built-in Windows Store apps, optional features, and capabilities you don't need.
-
-**Startup Manager** — Control what launches at boot:
-- Scans registry and startup folders
-- Enable/disable items with running process status sync
-- Sort, search, and filter
-
-**Disk Space Analyzer** — Visualize what's eating your storage with recursive directory scanning and junk file detection.
+- Configuration editor for resolution, graphics, and launch options  
+- Automatic backup and restore of game configs  
+- Hardware comparison with estimated FPS performance  
+- Custom resolution builder with multiple aspect ratios  
 
 ---
 
-### 🔄 Software Updates `FREE`
-Check and install updates for all your installed software in one place, powered by winget. Batch update multiple apps at once with cancellation support.
+### Network Tools
+
+Built-in diagnostics and monitoring for your connection.
+
+- Ping tests across global regions  
+- Traceroute with live hop tracking  
+- Speed tests using multiple providers  
+- Latency indicators for quick quality assessment  
 
 ---
 
-### 🖥️ Devices `FREE`
-**Resolution Manager** — View all connected monitors, supported resolutions, and refresh rates. Apply custom resolutions instantly.
+### OBS Stream Presets
 
-**Mouse Configuration** — Adjust DPI, polling rate, and other settings for 40+ supported gaming and OEM brands (Razer, Logitech, SteelSeries, Corsair, and more).
+Instantly deploy a complete streaming setup.
+
+- Prebuilt scenes such as Gaming, Starting Soon, BRB, and Ending  
+- Optimized capture, audio, and encoding settings  
+- Twitch-ready configuration  
+- One-click deployment with automatic launch  
 
 ---
 
-### 📋 PC Report Card `FREE`
-Generate a shareable visual summary of your system — specs, health score, applied tweaks, and hardware insights. Save as an image or copy to clipboard.
+### Apps Manager
+
+Comprehensive control over installed applications.
+
+**App Installer**  
+Install over 40 curated applications across multiple categories.
+
+**App Uninstaller**  
+Deep removal including leftover files, registry entries, and services.
+
+- Detection via registry, WMI, and AppX  
+- Cleanup of orphaned files and tasks  
+- Multiple scan levels: Safe, Moderate, Advanced  
+
+**Windows Debloat**  
+Remove unnecessary built-in apps and features.
+
+**Startup Manager**  
+Control startup programs with filtering and live status.
+
+**Disk Space Analyzer**  
+Visual breakdown of storage usage with recursive scanning.
+
+---
+
+### Software Updates
+
+Update all installed applications in one place using winget.
+
+- Batch updates  
+- Cancel support  
+- Simple and fast workflow  
+
+---
+
+### Devices
+
+**Resolution Manager**  
+View and apply supported resolutions and refresh rates for all displays.
+
+**Mouse Configuration**  
+Adjust DPI, polling rate, and settings for supported brands including Razer, Logitech, SteelSeries, and Corsair.
+
+---
+
+### PC Report Card
+
+Generate a shareable summary of your system.
+
+Includes specifications, health score, applied tweaks, and performance insights. Export as an image or copy to clipboard.
 
 ---
 
 ## System Requirements
 
 | Requirement | Details |
-|-------------|---------|
-| OS | Windows 10 / 11 (x64) |
-| Privileges | Administrator (required for tweaks, repairs, and services) |
-| Internet | Required for sign-in, updates, and speed tests |
+|------------|--------|
+| OS | Windows 10 or Windows 11 (64-bit) |
+| Permissions | Administrator access required for advanced features |
+| Internet | Required for login, updates, and network tools |
 
 ---
 
 ## Screenshots
 
-*Screenshots coming soon — download the app to see it in action.*
+Screenshots coming soon. Install the app to explore the interface.
 
 ---
 
 ## Roadmap
 
-- [ ] Additional game integrations
-- [ ] Cloud sync for settings and profiles
-- [ ] Performance benchmarking suite
-and more...
+- Additional game integrations  
+- Cloud sync for settings and profiles  
+- Performance benchmarking suite  
+- More features in development  
 
 ---
 
 ## Support
 
-- [**Open an Issue**](https://github.com/xGlobalShock/GS-Center-Releases/issues)
-- [**View Releases**](https://github.com/xGlobalShock/GS-Center-Releases/releases)
+Open an issue  
+https://github.com/xGlobalShock/GS-Center-Releases/issues  
+
+View releases  
+https://github.com/xGlobalShock/GS-Center-Releases/releases  
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/xGlobalShock">xGlobalShock</a>
+  Built by <a href="https://github.com/xGlobalShock">xGlobalShock</a>
 </p>
