@@ -167,11 +167,8 @@ Scan and update installed software via `winget upgrade`.
 
 A streaming chat agent integrated as a floating widget (Neural Command Center).
 
-- **Providers**: Groq (default `llama-3.3-70b-versatile`), OpenAI, Anthropic, Gemini, OpenRouter, GitHub Models, plus a hosted AI proxy. Provider and model are user-configurable.
 - **Context**: rebuilt per turn from live hardware telemetry + advisor pipeline output, then redacted (no usernames, hostnames, MAC addresses, paths, or serials).
 - **Tools**: Fix Library of guarded actions — clear temp files, flush DNS, restart audio services, repair Windows Update, disable startup apps, reset network stack, run SFC/DISM, GPU driver cleanup, storage cleanup, restart Explorer, empty Recycle Bin, analyze Event Viewer.
-- **Safety**: every fix has `risk`, `needsAdmin`, `needsReboot`, `rollback` metadata. The agent cannot execute commands directly — it requests fixes by name. The user confirms before anything runs. Every run is appended to a local audit log.
-- **Tiers**: Free = 30 messages/day + low-risk fixes. Pro = unlimited + medium-risk. Elite = high-risk + web search + provider choice.
 
 ---
 
