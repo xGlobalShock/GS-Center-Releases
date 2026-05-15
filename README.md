@@ -180,11 +180,11 @@ Exportable one-page system snapshot including specifications, performance status
 
 ### Settings
 
-- **Startup** — auto-cleanup on launch, launch on Windows start, minimize-to-tray
-- **Appearance** — light rays color (11 presets), background gradient (12 presets), font family, font size, accent color picker
-- **Overlay** — position, opacity, accent color, font, sensor toggles
-- **System** — GPU acceleration toggle, check for updates
-- **About** — version, changelog, what's new
+- **Startup** - auto-cleanup on launch, launch on Windows start, minimize-to-tray
+- **Appearance** - light rays color (11 presets), background gradient (12 presets), font family, font size, accent color picker
+- **Overlay** - position, opacity, accent color, font, sensor toggles
+- **System** - GPU acceleration toggle, check for updates
+- **About** - version, changelog, what's new
 
 ---
 
@@ -232,6 +232,7 @@ Exportable one-page system snapshot including specifications, performance status
 ## Support
 
 Open an issue: https://github.com/xGlobalShock/GS-Center-Releases/issues
+
 View releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
 
 ---
