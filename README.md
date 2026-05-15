@@ -6,18 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge" />
-  <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xGlobalShock/GS-Center-Releases?style=for-the-badge&label=Download&color=brightgreen" />
-  </a>
+  <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/xGlobalShock/GS-Center-Releases?style=for-the-badge&label=Download&color=brightgreen" /></a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Performance • Control • Optimization • Zero clutter
-</p>
+<p align="center">Performance • Control • Optimization • Zero clutter</p>
 
-<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
+<img width="1917" height="1031" alt="GS Center Dashboard" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
 
 ---
 
@@ -25,7 +21,7 @@
 
 GS Center is a powerful desktop application built for gamers, streamers, and performance-focused users who want full control over their system in one place.
 
-It combines monitoring, optimization, cleanup, system management, and game tools into a single streamlined experience.
+It combines real-time monitoring, registry-level optimizations, cleanup tools, system management, game configuration, streaming setup, and an AI support agent into a single streamlined experience.
 
 No unnecessary setup. No complexity. Just control.
 
@@ -33,247 +29,296 @@ No unnecessary setup. No complexity. Just control.
 
 ## Pricing
 
-GS Center uses a **Freemium model**:
+GS Center uses a **freemium model** — no subscriptions, no auto-renew. All prices are one-time payments (USD). Pro and Elite cover up to 3 devices for personal use.
 
-### Free Version
-Includes access to core functionality:
-- System monitoring
-- Game library tools
-- Network tools
-- OBS presets
-- Software updates
-- Device management
-- Basic cleanup tools
+### Free — $0
 
-### Pro Version
-Unlocks advanced features and deeper control:
-- Advanced PC optimization tweaks
-- Full cleanup toolkit
-- Advanced app management tools
-- Extended system controls
-- Premium automation features
+Everything you need for the daily tune-up.
+
+- Live metrics dashboard + Health Score
+- All 17 registry performance tweaks
+- 42+ cleaners across Windows, games, and GPU drivers
+- Game Library + FPS Predictor for 18 titles
+- OBS presets + Dual-PC Wizard
+- Network diagnostics + Resolution Manager
+- Overlay HUD with custom hotkey
+- AI chat: 30 messages/day, low-risk fixes only
+
+### Pro — $19.99
+
+Power-user modules and safety nets.
+
+- Everything in Free
+- Software Updates scanner + batch updater
+- Windows Debloat (100+ removable apps)
+- Space Analyzer (recursive disk scan)
+- Windows 11 ISO Builder (14 modifications)
+- AI agent: unlimited messages, medium-risk fixes
+- Auto-maintenance schedules
+- System restore point before each tweak
+- Hardware upgrade recommendations
+
+### Elite — $39.99
+
+Lifetime license. Every module. No subscription.
+
+- Everything in Pro
+- Lifetime license — all current and future modules
+- AI: high-risk fixes (with confirmation) + web search
+- Provider choice (Groq, OpenAI, Anthropic, Gemini)
+- Always-on tray monitoring
+- Early access + dedicated support channel
+- Up to 3 devices per license
 
 ---
 
 ## Features
 
-### Dashboard and Monitoring
-- Real-time system overview
-- Hardware performance tracking
-- System health scoring
-- Smart recommendations and insights
+### Dashboard & Live Metrics
+
+Real-time system overview powered by a native C# sidecar (`GCMonitor.exe` built on LibreHardwareMonitor).
+
+- **CPU** — usage, per-core load, clock, power, voltage, temperature
+- **GPU** — load, VRAM, core/memory clock, fan RPM, power, temperature, hotspot temp
+- **RAM** — used/total, available, cached, standby, top processes by RAM
+- **Disk** — read/write speed, temperature, lifespan, free/total per drive
+- **Network** — up/down speed, latency, packet loss, SSID, signal, adapter info
+- **System** — process count, uptime, Windows build, power plan
+- **Health Score** — 0–100 composite from CPU temp, usage, RAM pressure, disk space, GPU temp, latency, disk health
+- **Advisor Panel** — system insights (critical / warning / good) and hardware upgrade recommendations
+- **Anti-Cheat Compatibility Checker** — flags processes and tweaks that could trigger Vanguard, EAC, BattlEye, FACEIT, or Ricochet
 
 ---
 
-### PC Optimization
+### PC Tweaks (17 Registry Optimizations)
 
-Apply performance-focused optimizations instantly with one click.
+One-click performance tweaks organized by category. All are safely reversible.
 
-#### CPU and System
-- Foreground application prioritization
-- Input latency reduction
-- Background process optimization
+| Category | Tweaks |
+|----------|--------|
+| **VBS** | Disable VBS / Core Isolation |
+| **CPU & Priority** | Reduce Input Latency (IRQ8 Priority), Boost Foreground App Priority, Games Priority |
+| **GPU** | Enable GPU Low-Latency Mode (HW Scheduling), Disable GPU Timeout Detection (TDR) |
+| **Memory** | Use Full RAM Capacity (Disable Memory Compression), Expand System File Cache |
+| **Network** | Network Interrupts Priority, Disable Network Throttling |
+| **Display** | Disable Fullscreen Optimization, DWM Overlay Test Mode, Fullscreen Optimization Mode |
+| **Game DVR** | Disable Game DVR, Game DVR Policy, Disable App Capture |
+| **Hardware** | Disable USB Selective Suspend |
 
-#### GPU
-- Hardware acceleration optimization
-- Low latency configuration
-- Graphics scheduling enhancements
-
-#### Memory
-- Memory allocation optimization
-- Cache behavior tuning
-- RAM utilization improvements
-
-#### Network
-- Network prioritization adjustments
-- Latency optimization
-- Throughput tuning
-
-#### Display
-- Fullscreen optimization control
-- Desktop rendering adjustments
-
-#### Gaming Services
-- Disable unnecessary background services
-- Game-related system optimization
-
-#### Hardware Behavior
-- USB power and performance settings
-- Device responsiveness tuning
-
-All tweaks are safely reversible.
+- Individual toggle or batch apply
+- System restore point creation before applying (Pro)
+- One-click reset per tweak
+- Per-tweak anti-cheat verdict
 
 ---
 
-### Cleanup Toolkit
+### Cleanup Toolkit (42+ Cleaners)
 
-Free up space and maintain system performance.
+Reclaim disk space and maintain system performance.
 
-- Temporary files cleanup
-- System cache cleanup
-- Update file cleanup
-- Log and error file removal
-- Shader cache cleanup for games
-- Driver cache cleanup
-- System repair tools
-- General system maintenance tools
+**Windows Cache** — Temp files, Windows Update cache, DNS cache, RAM standby, Recycle Bin, Thumbnail cache, Logs, Crash dumps, Error reports, Delivery Optimization
+
+**Game Shader Caches** — Apex Legends, CS2, Fortnite, Forza Horizon 5, League of Legends, Overwatch 2, Rainbow Six Siege, Rocket League, Valorant, Dead by Daylight, Marvel Rivals, Arc Raiders, PUBG, Rust, R.E.P.O.
+
+**GPU Driver Cache** — NVIDIA (DXCache/GLCache), AMD
+
+**Win Tweaks** — Disk Cleanup, Services Optimization, Disable Telemetry, Disable Location, Remove Widgets, Disable Consumer Features, Disable Hibernation, PowerShell 7 Telemetry, Disable Activity History, Disable WPBT, Disable Explorer Auto Discovery, End Task on Taskbar, Disable Store Search, Delete Temp Files
+
+**Win Preferences** — Dark Theme, Center Taskbar, Search on Taskbar, Sticky Keys, Numlock on Boot, Show File Extensions, Show Hidden Files, Mouse Acceleration, GS Power Plan, Multiplane Overlay, Modern Standby, Detailed BSOD, Verbose Logon, Start Menu Recommendations, Bing Search, Cross Device, New Outlook, Task View Button, Settings Home Page, Revert Start Menu
+
+**System Repair** — SFC, DISM, ChkDsk with live progress and a floating always-on-top overlay window
 
 ---
 
 ### Game Library
 
-Manage and optimize supported games in one place.
+Manage and optimize supported games with built-in FPS prediction.
 
-- Built-in support for popular competitive titles
-- Game configuration management
-- Performance-based recommendations
-- Custom resolution support
-- Automatic backup handling
+**18 supported titles:**
+Apex Legends, Valorant, CS2, Fortnite, Overwatch 2, League of Legends, Rocket League, Dead by Daylight, Marvel Rivals, Arc Raiders, Rust, Minecraft, R.E.P.O., COD Warzone, COD Black Ops 6, COD Black Ops 7, Rainbow Six Siege, PUBG
 
----
-
-### Network Tools
-
-Monitor and test your connection.
-
-- Ping testing across regions
-- Connection diagnostics
-- Speed testing
-- Latency analysis
+- Per-game profile editor (full read/write for Apex Legends, framework in place for more)
+- Per-game config file read/write with optional read-only lock
+- **FPS Predictor** at 1080p / 1440p / 4K with verdicts (Runs Excellent, Runs Smooth, Might Lag, Can't Run)
+- Hardware vs game requirements comparison
+- Resolution builder (16:9, 16:10, 4:3, custom)
 
 ---
 
-### OBS Presets
+### Stream (OBS Presets + Dual-PC Wizard)
 
-Quickly deploy a ready-to-use streaming setup.
+- One-click OBS preset deployment: Gaming, Starting Soon, BRB, Ending
+- Twitch-tuned encoder + audio settings
+- Auto-detects OBS install and launches after deploying
+- **Dual-PC Wizard** — guided setup for streaming + gaming dual-PC: NDI vs capture card, audio routing, OBS scenes, NDI presets per link speed, troubleshooter
 
-- Pre-configured scenes
-- Streaming-ready settings
-- One-click setup experience
+---
+
+### Network Diagnostics
+
+- Ping tests to 10 regional gaming servers (NA East/West, EU West/Central, Asia, Southeast Asia, South America, Middle East, Oceania, Africa)
+- Speed tests via Fast.com, Ookla Speedtest, testmy.net (sandboxed webview)
+- Color-coded latency tiers (green ≤50 ms, yellow ≤100 ms, red >100 ms)
+- Traceroute
+
+---
+
+### Devices (Resolution & Mouse)
+
+- Active display list with adapter, current resolution and refresh rate
+- Enumerate every supported W × H × Hz mode per display
+- Apply any supported mode via native C# helper (`ResolutionHelper.exe`)
+- **Mouse Polling Rate Test** — live polling-rate sampler with smoothed readout
 
 ---
 
 ### Apps Manager
 
-Full control over installed applications.
+**App Installer** — 52 curated applications via winget across 8 categories: Browsers, Communications, Gaming, Gaming Tools, Streaming & Audio, Development, Utilities, Media. One-click install with progress tracking and bulk install.
 
-#### Installer
-- Install curated applications quickly
+**App Uninstaller** — Detects apps from registry, WMI, and AppX. Performs leftover cleanup (orphan files, folders, registry keys, services, scheduled tasks). Three scan modes: Safe, Moderate, Advanced.
 
-#### Uninstaller
-- Remove applications completely
-- Clean leftover files and data
+**Windows Debloat (Pro)** — 100+ pre-installed Windows apps removable from AppX, Windows Capabilities, and Windows Features. Batch removal, reinstall support, protected system apps excluded.
 
-#### Startup Manager
-- Control startup programs
-- Optimize boot performance
+**Startup Manager** — Lists startup items from HKCU/HKLM Run keys plus User and Common Startup folders. Toggle enable/disable, sort/search/filter, protected entries, running-process status sync.
 
-#### System Debloat
-- Remove unnecessary system components
-
-#### Storage Analyzer
-- Visualize disk usage
-- Identify large or unnecessary files
+**Space Analyzer (Pro)** — Recursive directory scanning with drive selector, context menu, LRU caching, protected paths excluded.
 
 ---
 
-### Software Updates
+### Software Updates (Pro)
 
-- Update installed applications in one place
-- Batch updates
-- Simple update management
+Scan and update installed software via `winget upgrade`.
 
----
-
-### Device Management
-
-- Display and resolution control
-- Peripheral configuration
-- System-level device adjustments
+- Detect outdated apps, batch update, per-package progress with phases (preparing → downloading → verifying → installing → done/error)
+- Cancellation, update history, floating progress dock visible from any page
 
 ---
 
-### PC Report
+### Windows 11 ISO Builder (Pro)
 
-Generate a shareable summary of your system:
+Import a stock Windows 11 ISO and apply up to 14 modifications:
 
-- System specifications
-- Performance status
-- Applied optimizations
-- Overall health overview
+1. Remove AppX bloatware (Clipchamp, BingNews, Teams, etc.)
+2. Bypass TPM / SecureBoot / RAM / Storage checks
+3. Disable sponsored apps & content delivery
+4. Enable local accounts on OOBE (BypassNRO)
+5. Disable telemetry & advertising ID
+6. Disable BitLocker device encryption
+7. Disable Chat icon, OneDrive backup, Copilot
+8. Prevent auto-install of DevHome, Outlook, Teams
+9. Suppress Windows Update during OOBE
+10. Disable reserved storage
+11. Delete CEIP / Windows Update scheduled tasks
+12. Write `autounattend.xml` + setup scripts
+13. DISM component cleanup (`/ResetBase`)
+14. Remove ISO `support\` folder
+
+Output: a new ISO or a bootable USB. Optional driver injection.
 
 ---
 
-## Complete PC Tweaks List
+### AI Support Agent
 
-### CPU and Priority
-- Foreground app priority boost  
-- System responsiveness optimization  
-- Input latency reduction  
+A streaming chat agent integrated as a floating widget (Neural Command Center).
 
-### GPU
-- Hardware acceleration optimization  
-- Low latency mode adjustments  
-- GPU timeout behavior control  
+- **Providers**: Groq (default `llama-3.3-70b-versatile`), OpenAI, Anthropic, Gemini, OpenRouter, GitHub Models, plus a hosted AI proxy. Provider and model are user-configurable.
+- **Context**: rebuilt per turn from live hardware telemetry + advisor pipeline output, then redacted (no usernames, hostnames, MAC addresses, paths, or serials).
+- **Tools**: Fix Library of guarded actions — clear temp files, flush DNS, restart audio services, repair Windows Update, disable startup apps, reset network stack, run SFC/DISM, GPU driver cleanup, storage cleanup, restart Explorer, empty Recycle Bin, analyze Event Viewer.
+- **Safety**: every fix has `risk`, `needsAdmin`, `needsReboot`, `rollback` metadata. The agent cannot execute commands directly — it requests fixes by name. The user confirms before anything runs. Every run is appended to a local audit log.
+- **Tiers**: Free = 30 messages/day + low-risk fixes. Pro = unlimited + medium-risk. Elite = high-risk + web search + provider choice.
 
-### Memory
-- RAM allocation tuning  
-- System cache optimization  
-- Memory usage efficiency improvements  
+---
 
-### Network
-- Network throttling adjustments  
-- Packet handling optimization  
-- Latency reduction tweaks  
+### Overlay HUD
 
-### Display
-- Fullscreen optimization control  
-- Desktop composition adjustments  
+A frameless, always-on-top, click-through gaming overlay.
 
-### Windows Features
-- Disable Game DVR  
-- Disable Xbox Game Bar  
-- Disable background telemetry  
+- Metrics: FPS, CPU %, GPU %, CPU temp, GPU temp, RAM %, latency, packet loss, network speed
+- Customization: position (4 corners), opacity, accent color, font, per-metric sensor toggles
+- Global hotkey: `Ctrl+Shift+F`
 
-### Services and Background
-- Disable unnecessary services  
-- Optimize background tasks  
+---
 
-### Hardware
-- USB selective suspend control  
-- Device performance tuning  
+### PC Report Card
 
-All tweaks are designed to be safe, reversible, and performance-focused.
+Exportable one-page system snapshot including specifications, performance status, applied optimizations, and overall health overview.
+
+---
+
+### Admin Panel (Owner / Admin only)
+
+- **Overview** — usage charts, active sessions
+- **Users** — user search, role assignment, Pro/Elite grants & revocation
+- **Features** — global feature-flag toggles per page / category / individual tweak
+- **Overlays** — manage marketing overlays
+- **AI Audit** — read-only audit log for AI fix runs
+- **AI Settings** — provider, model, memory mode, web search, BYO-key
+
+---
+
+### Settings
+
+- **Startup** — auto-cleanup on launch, launch on Windows start, minimize-to-tray
+- **Appearance** — light rays color (11 presets), background gradient (12 presets), font family, font size, accent color picker
+- **Overlay** — position, opacity, accent color, font, sensor toggles
+- **System** — GPU acceleration toggle, check for updates
+- **About** — version, changelog, what's new
 
 ---
 
 ## System Requirements
 
 | Requirement | Details |
-|------------|--------|
+|-------------|---------|
 | OS | Windows 10 or Windows 11 (64-bit) |
-| Permissions | Administrator access recommended |
-| Internet | Required for updates and online features |
+| Runtime | .NET 8.0 (bundled with installer) |
+| Permissions | Administrator access (for registry tweaks, service management, system repair, ISO builder) |
+| Internet | Required for auth, updates, speed tests, AI agent |
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | React 18, TypeScript, Framer Motion |
+| Build | Create React App (react-scripts 5) |
+| Desktop | Electron 33 |
+| Charts | Recharts |
+| Icons | Lucide React |
+| WebGL | OGL (light ray effects) |
+| Hardware Monitor | Native C# .NET 8 sidecar (LibreHardwareMonitor) |
+| Auth & Database | Supabase (Discord / Twitch OAuth) |
+| Package Manager | winget (install / update / uninstall / debloat) |
+| Payments | PayPal (local-loopback callback, one-time) |
+| Auto-Updates | electron-updater |
+| Native Helper | C# ResolutionHelper.exe (Win32 display modes) |
+| Process Control | node-pty (SFC/DISM PTY output) |
 
 ---
 
 ## Roadmap
 
-- Expanded feature set  
-- More game integrations  
-- Cloud sync for profiles  
-- Advanced benchmarking tools  
-- Continuous improvements  
+- [ ] GPU driver management (DDU-style)
+- [ ] Built-in performance benchmarking
+- [ ] Automatic game detection & auto-profiles
+- [ ] Advanced process management (priority, affinity)
+- [ ] Extended thermal monitoring & fan curves
+- [ ] Overlay: custom layout editor & frame-time graph
+- [ ] Multi-monitor wallpaper management
+- [ ] Audio device quick-switcher for streamers
+- [ ] Streamer mode (auto-hide sensitive info)
+- [ ] Cloud sync for profiles
+- [ ] More game integrations
 
 ---
 
 ## Support
 
-Open an issue:  
-https://github.com/xGlobalShock/GS-Center-Releases/issues  
+Open an issue: https://github.com/xGlobalShock/GS-Center-Releases/issues
 
-View releases:  
-https://github.com/xGlobalShock/GS-Center-Releases/releases  
+View releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
 
 ---
 
@@ -283,6 +328,4 @@ MIT License
 
 ---
 
-<p align="center">
-  Built by <a href="https://github.com/xGlobalShock">xGlobalShock</a>
-</p>
+<p align="center">Built by <a href="https://github.com/xGlobalShock">xGlobalShock</a></p>
