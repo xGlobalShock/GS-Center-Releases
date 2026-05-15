@@ -25,6 +25,13 @@ No unnecessary setup. No complexity. Just control.
 
 ---
 
+### Upgrade to PRO
+* Current price: $4.99/month
+* Includes both Free and Pro feature tiers
+* Pricing is subject to change in the future
+
+---
+
 ## Features
 
 ### Dashboard & Live Metrics
