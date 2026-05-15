@@ -27,72 +27,23 @@ No unnecessary setup. No complexity. Just control.
 
 ---
 
-## Pricing
-
-GS Center uses a **freemium model** — no subscriptions, no auto-renew. All prices are one-time payments (USD). Pro and Elite cover up to 3 devices for personal use.
-
-### Free — $0
-
-Everything you need for the daily tune-up.
-
-- Live metrics dashboard + Health Score
-- All 17 registry performance tweaks
-- 42+ cleaners across Windows, games, and GPU drivers
-- Game Library + FPS Predictor for 18 titles
-- OBS presets + Dual-PC Wizard
-- Network diagnostics + Resolution Manager
-- Overlay HUD with custom hotkey
-- AI chat: 30 messages/day, low-risk fixes only
-
-### Pro — $19.99
-
-Power-user modules and safety nets.
-
-- Everything in Free
-- Software Updates scanner + batch updater
-- Windows Debloat (100+ removable apps)
-- Space Analyzer (recursive disk scan)
-- Windows 11 ISO Builder (14 modifications)
-- AI agent: unlimited messages, medium-risk fixes
-- Auto-maintenance schedules
-- System restore point before each tweak
-- Hardware upgrade recommendations
-
-### Elite — $39.99
-
-Lifetime license. Every module. No subscription.
-
-- Everything in Pro
-- Lifetime license — all current and future modules
-- AI: high-risk fixes (with confirmation) + web search
-- Provider choice (Groq, OpenAI, Anthropic, Gemini)
-- Always-on tray monitoring
-- Early access + dedicated support channel
-- Up to 3 devices per license
-
----
-
 ## Features
 
 ### Dashboard & Live Metrics
 
-Real-time system overview powered by a native C# sidecar (`GCMonitor.exe` built on LibreHardwareMonitor).
-
-- **CPU** — usage, per-core load, clock, power, voltage, temperature
-- **GPU** — load, VRAM, core/memory clock, fan RPM, power, temperature, hotspot temp
-- **RAM** — used/total, available, cached, standby, top processes by RAM
-- **Disk** — read/write speed, temperature, lifespan, free/total per drive
-- **Network** — up/down speed, latency, packet loss, SSID, signal, adapter info
-- **System** — process count, uptime, Windows build, power plan
-- **Health Score** — 0–100 composite from CPU temp, usage, RAM pressure, disk space, GPU temp, latency, disk health
-- **Advisor Panel** — system insights (critical / warning / good) and hardware upgrade recommendations
-- **Anti-Cheat Compatibility Checker** — flags processes and tweaks that could trigger Vanguard, EAC, BattlEye, FACEIT, or Ricochet
+- **CPU** - usage, per-core load, clock, power, voltage, temperature
+- **GPU** - load, VRAM, core/memory clock, fan RPM, power, temperature, hotspot temp
+- **RAM** - used/total, available, cached, standby, top processes by RAM
+- **Disk** - read/write speed, temperature, lifespan, free/total per drive
+- **Network** - up/down speed, latency, packet loss, SSID, signal, adapter info
+- **System** - process count, uptime, Windows build, power plan
+- **Health Score** - 0–100 composite from CPU temp, usage, RAM pressure, disk space, GPU temp, latency, disk health
+- **Advisor Panel** - system insights (critical / warning / good) and hardware upgrade recommendations
+- **Anti-Cheat Compatibility Checker** - flags processes and tweaks that could trigger Vanguard, EAC, BattlEye, FACEIT, or Ricochet
 
 ---
 
 ### PC Tweaks (17 Registry Optimizations)
-
-One-click performance tweaks organized by category. All are safely reversible.
 
 | Category | Tweaks |
 |----------|--------|
@@ -114,19 +65,17 @@ One-click performance tweaks organized by category. All are safely reversible.
 
 ### Cleanup Toolkit (42+ Cleaners)
 
-Reclaim disk space and maintain system performance.
+**Windows Cache** - Temp files, Windows Update cache, DNS cache, RAM standby, Recycle Bin, Thumbnail cache, Logs, Crash dumps, Error reports, Delivery Optimization
 
-**Windows Cache** — Temp files, Windows Update cache, DNS cache, RAM standby, Recycle Bin, Thumbnail cache, Logs, Crash dumps, Error reports, Delivery Optimization
+**Game Shader Caches** - Apex Legends, CS2, Fortnite, Forza Horizon 5, League of Legends, Overwatch 2, Rainbow Six Siege, Rocket League, Valorant, Dead by Daylight, Marvel Rivals, Arc Raiders, PUBG, Rust, R.E.P.O.
 
-**Game Shader Caches** — Apex Legends, CS2, Fortnite, Forza Horizon 5, League of Legends, Overwatch 2, Rainbow Six Siege, Rocket League, Valorant, Dead by Daylight, Marvel Rivals, Arc Raiders, PUBG, Rust, R.E.P.O.
+**GPU Driver Cache** - NVIDIA (DXCache/GLCache), AMD
 
-**GPU Driver Cache** — NVIDIA (DXCache/GLCache), AMD
+**Win Tweaks** - Disk Cleanup, Services Optimization, Disable Telemetry, Disable Location, Remove Widgets, Disable Consumer Features, Disable Hibernation, PowerShell 7 Telemetry, Disable Activity History, Disable WPBT, Disable Explorer Auto Discovery, End Task on Taskbar, Disable Store Search, Delete Temp Files
 
-**Win Tweaks** — Disk Cleanup, Services Optimization, Disable Telemetry, Disable Location, Remove Widgets, Disable Consumer Features, Disable Hibernation, PowerShell 7 Telemetry, Disable Activity History, Disable WPBT, Disable Explorer Auto Discovery, End Task on Taskbar, Disable Store Search, Delete Temp Files
+**Win Preferences** - Dark Theme, Center Taskbar, Search on Taskbar, Sticky Keys, Numlock on Boot, Show File Extensions, Show Hidden Files, Mouse Acceleration, GS Power Plan, Multiplane Overlay, Modern Standby, Detailed BSOD, Verbose Logon, Start Menu Recommendations, Bing Search, Cross Device, New Outlook, Task View Button, Settings Home Page, Revert Start Menu
 
-**Win Preferences** — Dark Theme, Center Taskbar, Search on Taskbar, Sticky Keys, Numlock on Boot, Show File Extensions, Show Hidden Files, Mouse Acceleration, GS Power Plan, Multiplane Overlay, Modern Standby, Detailed BSOD, Verbose Logon, Start Menu Recommendations, Bing Search, Cross Device, New Outlook, Task View Button, Settings Home Page, Revert Start Menu
-
-**System Repair** — SFC, DISM, ChkDsk with live progress and a floating always-on-top overlay window
+**System Repair** - SFC, DISM, ChkDsk with live progress and a floating always-on-top overlay window
 
 ---
 
@@ -174,28 +123,17 @@ Apex Legends, Valorant, CS2, Fortnite, Overwatch 2, League of Legends, Rocket Le
 
 ### Apps Manager
 
-**App Installer** — 52 curated applications via winget across 8 categories: Browsers, Communications, Gaming, Gaming Tools, Streaming & Audio, Development, Utilities, Media. One-click install with progress tracking and bulk install.
+**App Installer** - 52 curated applications via winget across 8 categories: Browsers, Communications, Gaming, Gaming Tools, Streaming & Audio, Development, Utilities, Media. One-click install with progress tracking and bulk install.
 
-**App Uninstaller** — Detects apps from registry, WMI, and AppX. Performs leftover cleanup (orphan files, folders, registry keys, services, scheduled tasks). Three scan modes: Safe, Moderate, Advanced.
+**App Uninstaller** - Detects apps from registry, WMI, and AppX. Performs leftover cleanup (orphan files, folders, registry keys, services, scheduled tasks). Three scan modes: Safe, Moderate, Advanced.
 
-**Windows Debloat (Pro)** — 100+ pre-installed Windows apps removable from AppX, Windows Capabilities, and Windows Features. Batch removal, reinstall support, protected system apps excluded.
+**Windows Debloat (Pro)** - 100+ pre-installed Windows apps removable from AppX, Windows Capabilities, and Windows Features. Batch removal, reinstall support, protected system apps excluded.
 
-**Startup Manager** — Lists startup items from HKCU/HKLM Run keys plus User and Common Startup folders. Toggle enable/disable, sort/search/filter, protected entries, running-process status sync.
+**Startup Manager** - Lists startup items from HKCU/HKLM Run keys plus User and Common Startup folders. Toggle enable/disable, sort/search/filter, protected entries, running-process status sync.
 
-**Space Analyzer (Pro)** — Recursive directory scanning with drive selector, context menu, LRU caching, protected paths excluded.
+**Disk Analyzer (Pro)** - Recursive directory scanning with drive selector, context menu, LRU caching, protected paths excluded.
 
----
-
-### Software Updates (Pro)
-
-Scan and update installed software via `winget upgrade`.
-
-- Detect outdated apps, batch update, per-package progress with phases (preparing → downloading → verifying → installing → done/error)
-- Cancellation, update history, floating progress dock visible from any page
-
----
-
-### Windows 11 ISO Builder (Pro)
+**Windows 11 ISO Builder (Pro)**
 
 Import a stock Windows 11 ISO and apply up to 14 modifications:
 
@@ -218,6 +156,15 @@ Output: a new ISO or a bootable USB. Optional driver injection.
 
 ---
 
+### Software Updates (Pro)
+
+Scan and update installed software via `winget upgrade`.
+
+- Detect outdated apps, batch update, per-package progress with phases (preparing → downloading → verifying → installing → done/error)
+- Cancellation, update history, floating progress dock visible from any page
+
+---
+
 ### AI Support Agent
 
 A streaming chat agent integrated as a floating widget (Neural Command Center).
@@ -230,30 +177,9 @@ A streaming chat agent integrated as a floating widget (Neural Command Center).
 
 ---
 
-### Overlay HUD
-
-A frameless, always-on-top, click-through gaming overlay.
-
-- Metrics: FPS, CPU %, GPU %, CPU temp, GPU temp, RAM %, latency, packet loss, network speed
-- Customization: position (4 corners), opacity, accent color, font, per-metric sensor toggles
-- Global hotkey: `Ctrl+Shift+F`
-
----
-
 ### PC Report Card
 
 Exportable one-page system snapshot including specifications, performance status, applied optimizations, and overall health overview.
-
----
-
-### Admin Panel (Owner / Admin only)
-
-- **Overview** — usage charts, active sessions
-- **Users** — user search, role assignment, Pro/Elite grants & revocation
-- **Features** — global feature-flag toggles per page / category / individual tweak
-- **Overlays** — manage marketing overlays
-- **AI Audit** — read-only audit log for AI fix runs
-- **AI Settings** — provider, model, memory mode, web search, BYO-key
 
 ---
 
@@ -301,14 +227,8 @@ Exportable one-page system snapshot including specifications, performance status
 ## Roadmap
 
 - [ ] GPU driver management (DDU-style)
-- [ ] Built-in performance benchmarking
 - [ ] Automatic game detection & auto-profiles
 - [ ] Advanced process management (priority, affinity)
-- [ ] Extended thermal monitoring & fan curves
-- [ ] Overlay: custom layout editor & frame-time graph
-- [ ] Multi-monitor wallpaper management
-- [ ] Audio device quick-switcher for streamers
-- [ ] Streamer mode (auto-hide sensitive info)
 - [ ] Cloud sync for profiles
 - [ ] More game integrations
 
@@ -317,7 +237,6 @@ Exportable one-page system snapshot including specifications, performance status
 ## Support
 
 Open an issue: https://github.com/xGlobalShock/GS-Center-Releases/issues
-
 View releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
 
 ---
@@ -328,4 +247,4 @@ MIT License
 
 ---
 
-<p align="center">Built by <a href="https://github.com/xGlobalShock">xGlobalShock</a></p>
+<p align="center">Built by <a href="https://github.com/xGlobalShock">GlobalShock</a></p>
