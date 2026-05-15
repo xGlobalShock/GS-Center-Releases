@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
-<p align="center">Performance • Control • Optimization • Zero clutter</p>
-
 <img width="1917" height="1031" alt="GS Center Dashboard" src="https://github.com/user-attachments/assets/e5957c74-949a-4c46-a52c-17491ef1879d" />
 
 ---
