@@ -1,6 +1,4 @@
-# GS Center - Privacy, in Plain English
-
-_Last updated: May 2026 · Applies to GS Center desktop app v2.8.x_
+# GS Center - Privacy
 
 This isn't a wall of legal boilerplate. It's a straight answer to the
 question most people actually have: **"What does this app do with my
