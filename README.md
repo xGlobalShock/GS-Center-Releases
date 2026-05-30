@@ -240,7 +240,25 @@ Exportable one-page system snapshot including specifications, performance status
 
 Open an issue: https://github.com/xGlobalShock/GS-Center-Releases/issues
 
-View releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
+View Releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
+
+View Privacy:  https://github.com/xGlobalShock/GS-Center-Releases/blob/main/PRIVACY.md
+
+View Roadmap:  Will be updated soon
+
+---
+
+## Inspired By
+
+A number of excellent projects inspired ideas, workflows, and features found throughout GS Center. Recognition goes to the creators of the following applications:
+
+- Christitus
+- Winhance
+- Windshark
+- UniGetUI
+- Revo Uninstaller
+- Treesize
+- Grafana
 
 ---
 
