@@ -1,4 +1,4 @@
-# GS Center — Privacy, in Plain English
+# GS Center - Privacy, in Plain English
 
 _Last updated: May 2026 · Applies to GS Center desktop app v2.8.x_
 
@@ -10,9 +10,9 @@ want to know where that information goes.
 
 Short version: **almost everything stays on your PC.** The app was built
 local-first. The only things that ever leave your machine are the ones
-that genuinely need a server to work — signing in, your Pro status, and
-(only if you choose to use it) the AI assistant. Everything else —
-hardware readings, tweaks, cleanups, the files it scans — happens on
+that genuinely need a server to work - signing in, your Pro status, and
+(only if you choose to use it) the AI assistant. Everything else -
+hardware readings, tweaks, cleanups, the files it scans - happens on
 your computer and never gets uploaded anywhere.
 
 Here's the full picture.
@@ -26,7 +26,7 @@ the app. It monitors your CPU, GPU, RAM, disks, and network in real time;
 it applies registry tweaks; it cleans caches; it manages installed apps.
 All of that runs locally. We don't sell data, we don't run advertising
 SDKs, and there's no hidden background uploader. The handful of features
-that talk to the internet are clearly tied to a thing you asked for —
+that talk to the internet are clearly tied to a thing you asked for -
 logging in, checking for updates, downloading an app you picked,
 verifying your subscription, or chatting with the optional AI assistant.
 
@@ -37,21 +37,21 @@ verifying your subscription, or chatting with the optional AI assistant.
 These features never send your data off your PC. They read and act on
 your system locally:
 
-- **Live hardware monitoring** — CPU, GPU, RAM, disk, and network metrics
+- **Live hardware monitoring** - CPU, GPU, RAM, disk, and network metrics
   come from a small local helper program (GCMonitor.exe, built on
   LibreHardwareMonitor) that runs on your machine and streams readings to
   the app. Those numbers are displayed and then discarded as new readings
   arrive. They are not logged to a server.
-- **Performance tweaks** — registry edits applied locally through
+- **Performance tweaks** - registry edits applied locally through
   Windows. The app only touches specific, documented keys.
-- **Cleanup toolkit** — temp files, shader caches, DNS cache, recycle bin,
+- **Cleanup toolkit** - temp files, shader caches, DNS cache, recycle bin,
   etc. The app deletes files on your disk. It does not read their contents
   or copy them anywhere.
-- **App uninstaller, startup manager, space analyzer, debloat** — these
+- **App uninstaller, startup manager, space analyzer, debloat** - these
   enumerate what's installed on your PC. That inventory stays on your PC.
-- **Resolution manager, mouse polling test, OBS presets, ISO builder** —
+- **Resolution manager, mouse polling test, OBS presets, ISO builder** -
   all local device and file operations.
-- **Overlay HUD and report card** — built from the same local metrics.
+- **Overlay HUD and report card** - built from the same local metrics.
 
 If you never sign in and never open the AI assistant, GS Center
 effectively operates as an offline tool, aside from the internet features
@@ -80,7 +80,7 @@ provider).
 
 Your account role (Free, Pro, etc.) and any subscription expiry are stored
 in our Supabase database so the app knows which features to unlock. If you
-buy Pro, payment is processed through **PayPal** — GS Center never sees or
+buy Pro, payment is processed through **PayPal** - GS Center never sees or
 stores your card details. We only learn that a payment succeeded.
 
 While you're signed in, the app sends a lightweight "still active" beacon
@@ -90,7 +90,7 @@ or system data.
 ### 3. The AI assistant (optional, off until you open it)
 
 This is the one feature that, by design, sends system information to an
-outside service — because that's how it diagnoses problems. It's worth
+outside service - because that's how it diagnoses problems. It's worth
 explaining carefully.
 
 When you chat with the AI assistant, the app builds a snapshot of relevant
@@ -119,7 +119,7 @@ A few more things about the AI:
   confirm** before anything runs. High-risk actions always require your
   approval.
 - **Your API keys stay out of the browser layer.** Keys live in the main
-  process, a key you supply yourself, or a server-side secret — never
+  process, a key you supply yourself, or a server-side secret - never
   exposed to the app's front end.
 - **Chat memory is off by default.** Out of the box, conversations aren't
   stored on a server. There's an optional cloud-memory mode you can turn
@@ -146,7 +146,7 @@ Some actions reach out to the internet because that's what they're for:
 - **Optional web search** for the AI assistant (off unless enabled) sends
   your search query to a search provider.
 
-These are normal outbound requests tied to a feature you used — not
+These are normal outbound requests tied to a feature you used - not
 background tracking.
 
 ---
@@ -154,7 +154,7 @@ background tracking.
 ## Analytics: what we count, and what we don't
 
 GS Center keeps some anonymous, **local** usage counters for the AI
-feature — things like "a message was sent" or "a fix completed." This
+feature - things like "a message was sent" or "a fix completed." This
 helps gauge reliability. Important details:
 
 - It's tied to a **hashed device ID**, not your name or email. The hash is
@@ -166,7 +166,7 @@ helps gauge reliability. Important details:
 
 There are **no third-party advertising or tracking SDKs** bundled in the
 app. We don't sell or share your data with data brokers. There's nothing
-to sell — we don't collect it in the first place.
+to sell - we don't collect it in the first place.
 
 ---
 
@@ -179,8 +179,8 @@ to sell — we don't collect it in the first place.
 | App settings & preferences | Local file + browser storage on your PC | No |
 | AI fix audit log | Local file on your PC | No (unless you opt in) |
 | AI usage counters | Local log on your PC (hashed device ID) | No |
-| Account profile & Pro status | Supabase (our database) | Yes — to run your account |
-| AI chat context & message | Chosen AI provider | Yes — only when you chat |
+| Account profile & Pro status | Supabase (our database) | Yes - to run your account |
+| AI chat context & message | Chosen AI provider | Yes - only when you chat |
 | Cloud AI memory (optional) | Supabase, locked to your account | Only if you enable it |
 | Payment | PayPal | We never see card details |
 
@@ -191,7 +191,7 @@ to sell — we don't collect it in the first place.
 - **Administrator rights.** GS Center asks to run as administrator because
   applying registry tweaks, cleaning system caches, repairing Windows, and
   building ISOs genuinely require it. The elevated access is used for the
-  optimization work you ask for — not to snoop.
+  optimization work you ask for - not to snoop.
 - **Protected guardrails.** The app refuses to disable critical security
   items (like Windows Defender) and excludes protected system folders from
   cleanup and scanning, so it can't be used to weaken your machine.
