@@ -163,7 +163,7 @@ Output: a new ISO or a bootable USB. Optional driver injection.
 
 ### Software Updates (Pro)
 
-Scan and update installed software via `winget upgrade`.
+Scan and update installed software.
 
 - Detect outdated apps, batch update, per-package progress with phases (preparing → downloading → verifying → installing → done/error)
 - Cancellation, update history, floating progress dock visible from any page
