@@ -225,12 +225,3 @@ As the app evolves, this document will be updated to match what it
 actually does. The date at the top reflects the latest revision. The
 guiding principle won't change: keep things local, be clear about the few
 things that aren't, and never collect what we don't need.
-
----
-
-## Questions
-
-If you're reviewing GS Center (hi, XDA 👋) or just want clarification on
-anything here, reach out through the project's GitHub or the contact
-listed on our releases page. Happy to walk through any part of how the app
-handles data.
