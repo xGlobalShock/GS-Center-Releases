@@ -74,24 +74,24 @@ All premium operations are authorized by the main process.
 
 ### Monthly
 
-* Price: $4.99/month
-* Device Limit: 1
+* Price: $TBD/month
+* Device Limit: TBD
 
-* Price: $14.99/month
-* Device Limit: 1
+* Price: $TBD/month
+* Device Limit: TBD
 
-* Price: $29.99/month
-* Device Limit: 1
+* Price: $TBD/month
+* Device Limit: TBD
 
 ### Annual
 
-* Price: $tbd/year
-* Device Limit: tdb
+* Price: TBD/year
+* Device Limit: TBD
 
 ### Lifetime
 
 * Price: $299.99 one-time
-* Device Limit: 3
+* Device Limit: TBD
 
 ---
 
