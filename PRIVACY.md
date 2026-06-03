@@ -115,9 +115,6 @@ A few more things about the AI:
   proposes an action from a fixed, built-in library, and **you have to
   confirm** before anything runs. High-risk actions always require your
   approval.
-- **Your API keys stay out of the browser layer.** Keys live in the main
-  process, a key you supply yourself, or a server-side secret - never
-  exposed to the app's front end.
 - **Chat memory is off by default.** Out of the box, conversations aren't
   stored on a server. There's an optional cloud-memory mode you can turn
   on; when enabled, redacted messages and fix history are saved to your
