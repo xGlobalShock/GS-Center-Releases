@@ -59,12 +59,11 @@ you explicitly trigger (like installing an app or checking for updates).
 
 ## What leaves your device, and why
 
-### 1. Signing in (optional)
+### 1. Signing in
 
-You can use a large part of GS Center without an account. If you want Pro
-features, you sign in with **Discord or Twitch**. We use their standard
-OAuth login, handled through Supabase (our authentication and database
-provider).
+If you want to try our FREE / Pro features, you have to sign in with 
+**Discord or Twitch**. We use their standard OAuth login, handled through
+Supabase (our authentication and database provider).
 
 - We receive the basic profile those services hand over (such as your
   account ID, display name, and avatar) so we can recognize you and show
