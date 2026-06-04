@@ -26,8 +26,9 @@ No unnecessary setup. No complexity. Just control.
 ---
 
 ### Upgrade to PRO
-* Current price: $4.99/month
-* Includes both Free and Pro feature tiers
+* Current price: **$4.99/month**
+* Upcoming pricing tiers: **$14.99/month** and **$29.99/month**
+* Includes access to both Free and Pro feature sets
 * Pricing is subject to change in the future
 
 ---
