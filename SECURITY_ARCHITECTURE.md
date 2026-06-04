@@ -22,7 +22,8 @@ SCESA assumes a **Compromised Client / Full Privilege Host** threat model. The l
 
 SCESA establishes a Native Enclave Boundary within the client system, enforcing hard cryptographic gating. Instead of verifying state via simple conditional branches in JavaScript, the application's core functionality is encrypted and cannot execute unless the environment passes native validation.
 
-```mermaid
+```
+mermaid
 flowchart TB
     subgraph Client System (Windows - Host OS)
         subgraph Renderer Process (Untrusted)
