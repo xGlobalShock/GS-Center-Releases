@@ -1,3 +1,6 @@
+GS Center - Security Architecture and Layers
+
+
 LAYER 1: Electron Hardening (stop casual access)
 ├── electron-builder: devtools disabled in production
 ├── Electron Fuses (RunAsNode, EnableNodeCliInspect, cookie encryption)
