@@ -6,7 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge" />
-  <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/xGlobalShock/GS-Center-Releases?style=for-the-badge&label=Download&color=brightgreen" /></a>
+<a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/latest">
+  <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge">
+</a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
