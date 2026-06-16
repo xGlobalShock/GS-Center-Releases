@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
-<img width="1919" height="1031" alt="GS_Center_App" src="https://github.com/user-attachments/assets/1f41a7ce-f27f-4401-a53a-7303ef9ba9a2" />
-
----
+<img width="1473" height="855" alt="GSCenter" src="https://github.com/user-attachments/assets/b780f4c7-5c14-4b83-bb3d-524b9d6f7bcc" />
 
 ## Overview
 
