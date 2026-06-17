@@ -214,26 +214,9 @@ Exportable one-page system snapshot including specifications, performance status
 | Frontend | React 18, TypeScript, Framer Motion |
 | Build | Create React App (react-scripts 5) |
 | Desktop | Electron 33 |
-| Charts | Recharts |
-| Icons | Lucide React |
 | WebGL | OGL (light ray effects) |
-| Hardware Monitor | Native C# .NET 8 sidecar (LibreHardwareMonitor) |
+| Hardware Monitor | Native C# .NET 8 sidecar |
 | Auth & Database | Supabase (Discord / Twitch OAuth) |
-| Package Manager | winget (install / update / uninstall / debloat) |
-| Payments | PayPal (local-loopback callback, one-time) |
-| Auto-Updates | electron-updater |
-| Native Helper | C# ResolutionHelper.exe (Win32 display modes) |
-| Process Control | node-pty (SFC/DISM PTY output) |
-
----
-
-## Roadmap
-
-- [ ] GPU driver management (DDU-style)
-- [ ] Automatic game detection & auto-profiles
-- [ ] Advanced process management (priority, affinity)
-- [ ] Cloud sync for profiles
-- [ ] More game integrations
 
 ---
 
@@ -245,7 +228,7 @@ View Releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
 
 View Privacy:  https://github.com/xGlobalShock/GS-Center-Releases/blob/main/PRIVACY.md
 
-View Roadmap:  Will be updated soon
+View Roadmap:  Updating this soon...
 
 ---
 
@@ -260,12 +243,7 @@ A number of excellent projects inspired ideas, workflows, and features found thr
 - Revo Uninstaller
 - Treesize
 - Grafana
-
----
-
-## License
-
-MIT License
+- Win11Debloat
 
 ---
 
