@@ -1,4 +1,4 @@
-# GS Center [ BETA ] - Under Developement
+# GS Center (Beta) – Currently in Development
 
 <p align="center">
   <strong>The all-in-one performance control center for Windows gamers and streamers.</strong>
