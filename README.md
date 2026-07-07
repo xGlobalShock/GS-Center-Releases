@@ -171,15 +171,6 @@ Scan and update installed software.
 
 ---
 
-### AI Support Agent
-
-A streaming chat agent integrated as a floating widget (Neural Command Center).
-
-- **Context**: rebuilt per turn from live hardware telemetry + advisor pipeline output, then redacted (no usernames, hostnames, MAC addresses, paths, or serials).
-- **Tools**: Fix Library of guarded actions — clear temp files, flush DNS, restart audio services, repair Windows Update, disable startup apps, reset network stack, run SFC/DISM, GPU driver cleanup, storage cleanup, restart Explorer, empty Recycle Bin, analyze Event Viewer.
-
----
-
 ### PC Report Card
 
 Exportable one-page system snapshot including specifications, performance status, applied optimizations, and overall health overview.
@@ -188,11 +179,10 @@ Exportable one-page system snapshot including specifications, performance status
 
 ### Settings
 
-- **Startup** - auto-cleanup on launch, launch on Windows start, minimize-to-tray
-- **Appearance** - light rays color (11 presets), background gradient (12 presets), font family, font size, accent color picker
-- **Overlay** - position, opacity, accent color, font, sensor toggles
-- **System** - GPU acceleration toggle, check for updates
-- **About** - version, changelog, what's new
+- **Startup** - Auto-cleanup on launch, minimize-to-tray
+- **Peformance** - GPU Acceleration, Render Quality
+- **Appearance** - Theme, Light Effect, Background
+- **About** - Version, Channel Update, What's new, Privacy
 
 ---
 
