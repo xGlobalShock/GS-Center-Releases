@@ -38,17 +38,17 @@ No unnecessary setup. No complexity. Just complete control.
 
 ## Upgrade to PRO
 
-### PRO Core (Current Plan - Full Access)
+#### PRO Core (Current Plan - Full Access)
 > - 1 Month - $4.99/mo
 > - 6 Months - $24.99/mo (Save ~17%)
 > - 1 Year - $44.99/mo (Save ~25%)
 
-### PRO Boost (Coming Soon)
+#### PRO Boost (Coming Soon)
 > - 1 Month
 > - 6 Months
 > - 1 Year
 
-### PRO Max (Coming Soon)
+#### PRO Max (Coming Soon)
 > - 1 Month
 > - 6 Months
 > - 1 Year
