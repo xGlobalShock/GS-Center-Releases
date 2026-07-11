@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge">&nbsp;
 </p>
 
-  <img width="1439" height="837" alt="Screenshot 2026-07-11 143237-modified" src="https://github.com/user-attachments/assets/3d2a6407-65d5-44ac-838a-0f90ce5b6c7a" />
+
+https://github.com/user-attachments/assets/707fc020-f403-44c7-9143-42df7c797422
+
 
 ## Overview
 
