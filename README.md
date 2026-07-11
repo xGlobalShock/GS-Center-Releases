@@ -13,6 +13,7 @@
   This allows us to gather valuable feedback, improve the application, and identify and resolve bugs before the official release.
   <br><br>
   You are more than welcome to try GS Center and share your feedback to help us make it better!
+  
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge">&nbsp;
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
-<img width="1473" height="855" alt="GSCenter" src="https://github.com/user-attachments/assets/b780f4c7-5c14-4b83-bb3d-524b9d6f7bcc" />
+  <img width="1439" height="837" alt="Screenshot 2026-07-11 143237-modified" src="https://github.com/user-attachments/assets/3d2a6407-65d5-44ac-838a-0f90ce5b6c7a" />
 
 ## Overview
 
