@@ -62,10 +62,9 @@ No unnecessary setup. No complexity. Just control.
 | **Game DVR** | Disable Game DVR, Game DVR Policy, Disable App Capture |
 | **Hardware** | Disable USB Selective Suspend |
 
+- System restore point creation before applying
 - Individual toggle or batch apply
-- System restore point creation before applying (Pro)
 - One-click reset per tweak
-- Per-tweak anti-cheat verdict
 
 ---
 
