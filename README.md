@@ -20,7 +20,6 @@
   <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/download/v2.9.7/GS-Center-Setup-2.9.7.exe"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/xGlobalShock/GS-Center-Releases"><img src="https://img.shields.io/badge/Releases-GitHub-blue?style=for-the-badge"></a>&nbsp;
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge">&nbsp;
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
   <img width="1439" height="837" alt="Screenshot 2026-07-11 143237-modified" src="https://github.com/user-attachments/assets/3d2a6407-65d5-44ac-838a-0f90ce5b6c7a" />
