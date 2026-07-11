@@ -1,35 +1,72 @@
-# GS Center (Beta) – Currently in Development
+<h1 align="center">
+  <strong>GS Center ᴮᵉᵗᵃ</strong>
+</h1>
 
 <p align="center">
-  <strong>The all-in-one performance control center for Windows gamers and streamers.</strong>
+  <strong>A complete performance control hub designed to optimize, manage, and enhance your Windows experience.</strong>
 </p>
 
+##
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge" />
-<a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/download/v2.9.5/GS-Center-Setup-2.9.5.exe"> 
-  <img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge">
-</a>
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  GS Center is currently in development and is available to a limited group of testers.<br>
+  This allows us to gather valuable feedback, improve the application, and identify and resolve bugs before the official release.
+  <br><br>
+  You are more than welcome to try GS Center and share your feedback to help us make it better!
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge">&nbsp;
+  <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/download/v2.9.7/GS-Center-Setup-2.9.7.exe"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/xGlobalShock/GS-Center-Releases"><img src="https://img.shields.io/badge/Releases-GitHub-blue?style=for-the-badge"></a>&nbsp;
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge">&nbsp;
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
 <img width="1473" height="855" alt="GSCenter" src="https://github.com/user-attachments/assets/b780f4c7-5c14-4b83-bb3d-524b9d6f7bcc" />
 
 ## Overview
 
-GS Center is a powerful desktop application built for gamers, streamers, and performance-focused users who want full control over their system in one place.
+GS Center is a powerful desktop application built for gamers, streamers, and performance-focused users who want complete control over their system from one place.
 
-It combines real-time monitoring, registry-level optimizations, cleanup tools, system management, game configuration, streaming setup, and an AI support agent into a single streamlined experience.
+It combines real-time monitoring, registry-level optimizations, cleanup tools, system management, game configuration, and streaming setup into a single streamlined experience.
 
-No unnecessary setup. No complexity. Just control.
+No unnecessary setup. No complexity. Just complete control.
 
 ---
 
-### Upgrade to PRO
-* Current price: **$4.99/month**
-* Upcoming pricing tiers: **$14.99/month** and **$29.99/month**
-* Includes access to both Free and Pro feature sets
-* Pricing is subject to change in the future
+## Upgrade to PRO
+
+### PRO Basic (Current Plan - Full Access)
+> - 1 Month - $4.99/mo
+> - 6 Months - $24.99/mo (Save ~17%)
+> - 1 Year - $44.99/mo (Save ~25%)
+
+### PRO Plus (Currently Unavailable - Coming Soon)
+> - 1 Month - $14.99/mo
+> - 6 Months - $74.99/mo (Save 17% · $12.50/mo)
+> - 1 Year - $134.99/mo (Save 25% · $11.25/mo)
+
+### PRO Ultimate (Coming Soon)
+> - 1 Month - $29.99/mo
+> - 6 Months - $149.99/mo (Save 17% · $25.00/mo)
+> - 1 Year - $269.99/mo (Save 25% · $22.50/mo)
+
+*Pricing shown is preliminary and may change before official release.*
+
+---
+
+### **Included with PRO Basic ($4.99/month)**
+
+* Unlock System Advisor
+* Unlock Anti-Cheat
+* Unlock All Registry Tweaks
+* Unlock Set Services to Manual (Windows Tweaks)
+* Unlock Stream Dual-PC Guide
+* Unlock Apps Uninstaller
+* Unlock Windows Debloat
+* Unlock Windows Cache
+* Unlock System Repair
+* Unlock ISO Builder
 
 ---
 
