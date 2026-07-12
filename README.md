@@ -318,21 +318,44 @@ Includes:
 
 ---
 
-### Network Diagnostics
+# Network Diagnostics
 
-* Ping tests to 10 regional gaming servers (NA East/West, EU West/Central, Asia, Southeast Asia, South America, Middle East, Oceania, Africa)
-* Speed tests via Fast.com, Ookla Speedtest, testmy.net (sandboxed webview)
-* Color-coded latency tiers (green ≤50 ms, yellow ≤100 ms, red >100 ms)
-* Traceroute
+*Analyze and troubleshoot your network connection with built-in gaming-focused diagnostics.*
 
----
+## Gaming Server Ping Tests
+
+> Test latency against regional gaming servers:
+- North America East
+- North America West
+- Europe West
+- Europe Central
+- Asia
+- Southeast Asia
+- South America
+- Middle East
+- Oceania
+- Africa
+
+## Internet Speed Testing
+
+> Run comprehensive connection speed tests using trusted services:
+- Fast.com
+- Ookla Speedtest
+
+*More testing services will be added in future releases.*
+
+## Network Troubleshooting
+
+> Advanced diagnostic tools:
+- Traceroute Analysis
+- Network Route Inspection
+- Connection Path Troubleshooting
 
 ### Devices (Resolution & Mouse)
 
 * Active display list with adapter, current resolution and refresh rate
 * Enumerate every supported W × H × Hz mode per display
-* Apply any supported mode via native C# helper (`ResolutionHelper.exe`)
-* **Mouse Polling Rate Test** — live polling-rate sampler with smoothed readout
+* **Mouse Polling Rate Test** - live polling-rate sampler with smoothed readout
 
 ---
 
@@ -363,9 +386,9 @@ Import a stock Windows 11 ISO and apply up to 14 modifications:
 9. Suppress Windows Update during OOBE
 10. Disable reserved storage
 11. Delete CEIP / Windows Update scheduled tasks
-12. Write `autounattend.xml` + setup scripts
-13. DISM component cleanup (`/ResetBase`)
-14. Remove ISO `support\` folder
+12. Write + setup scripts
+13. DISM component cleanup
+14. Remove ISO folder
 
 Output: a new ISO or a bootable USB. Optional driver injection.
 
