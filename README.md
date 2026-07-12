@@ -96,7 +96,7 @@ Explore GS Center and discover a complete suite of features built to optimize, m
 
 ### Health Score
 
-A 0–100 system health rating calculated from:
+> A 0–100 system health rating calculated from:
 
 - CPU Temperature
 - CPU Usage
@@ -108,7 +108,7 @@ A 0–100 system health rating calculated from:
 
 ### Advisor Panel
 
-Provides intelligent system recommendations:
+> Provides intelligent system recommendations:
 
 - Critical Issues Detection
 - Warning Alerts
@@ -117,19 +117,13 @@ Provides intelligent system recommendations:
 
 ### Anti-Cheat Compatibility Checker
 
-Detects potential conflicts with competitive gaming anti-cheat systems:
+> Detects potential conflicts with competitive gaming anti-cheat systems:
 
 - Vanguard
 - Easy Anti-Cheat (EAC)
 - BattlEye
 - FACEIT Anti-Cheat
 - Ricochet
-
-Checks for:
-
-- Problematic Processes
-- System Tweaks
-- Potential Compatibility Issues
 
 ---
 
@@ -138,7 +132,7 @@ Checks for:
 | Category | Tweaks |
 |----------|--------|
 | **VBS** | Disable VBS / Core Isolation |
-| **CPU & Priority** | Reduce Input Latency (IRQ8 Priority), Boost Foreground App Priority, Games Priority |
+| **CPU** | Reduce Input Latency (IRQ8 Priority), Boost Foreground App Priority, Games Priority |
 | **GPU** | Enable GPU Low-Latency Mode (HW Scheduling), Disable GPU Timeout Detection (TDR) |
 | **Memory** | Use Full RAM Capacity (Disable Memory Compression), Expand System File Cache |
 | **Network** | Network Interrupts Priority, Disable Network Throttling |
@@ -154,163 +148,162 @@ Checks for:
 
 # Cleanup Toolkit
 
-A powerful collection of **42+ system cleaners, optimizations, and repair tools** designed to keep your PC running at peak performance.
+> A powerful collection of **42+ system cleaners, optimizations, and repair tools** designed to keep your PC running at peak performance.
 
----
+### Windows Cleanup
 
-## Windows Cleanup
+> Clean common Windows junk files and caches:
+* Temporary Files
+* Windows Update Cache
+* DNS Cache
+* RAM Standby List
+* Recycle Bin
+* Thumbnail Cache
+* System Logs
+* Crash Dumps
+* Error Reports
+* Delivery Optimization Cache
 
-Clean common Windows junk files and caches:
+### Game Shader Cache Cleanup
 
-- Temporary Files
-- Windows Update Cache
-- DNS Cache
-- RAM Standby List
-- Recycle Bin
-- Thumbnail Cache
-- System Logs
-- Crash Dumps
-- Error Reports
-- Delivery Optimization Cache
+> Clear shader caches for supported games:
+* Apex Legends
+* Counter Strike 2
+* Fortnite
+* Forza Horizon 5
+* League of Legends
+* Overwatch 2
+* Rainbow Six Siege
+* Rocket League
+* Valorant
+* Dead by Daylight
+* Marvel Rivals
+* ARC Raiders
+* PUBG
+* Rust
+* R.E.P.O.
 
----
+### GPU Driver Cache Cleanup
 
-## Game Shader Cache Cleanup
-
-Clear shader caches for supported games:
-
-- Apex Legends
-- Counter-Strike 2 (CS2)
-- Fortnite
-- Forza Horizon 5
-- League of Legends
-- Overwatch 2
-- Rainbow Six Siege
-- Rocket League
-- Valorant
-- Dead by Daylight
-- Marvel Rivals
-- ARC Raiders
-- PUBG
-- Rust
-- R.E.P.O.
-
----
-
-## GPU Driver Cache Cleanup
-
-Remove cached GPU driver files to resolve shader and rendering issues.
+> Remove cached GPU driver files to resolve shader and rendering issues.
 
 ### NVIDIA
-
-- DXCache
-- GLCache
+* DXCache
+* GLCache
 
 ### AMD
+* Driver Cache
 
-- Driver Cache
+### Windows Tweaks
 
----
+> Optimize Windows with one-click system tweaks:
+* Disk Cleanup
+* Services Optimization
+* Disable Telemetry
+* Disable Location Services
+* Remove Widgets
+* Disable Consumer Features
+* Disable Hibernation
+* Disable PowerShell 7 Telemetry
+* Disable Activity History
+* Disable WPBT
+* Disable Explorer Network Auto Discovery
+* Add **End Task** to Taskbar
+* Disable Microsoft Store Search
+* Delete Temporary Files
 
-## Windows Tweaks
+### Windows Preferences
 
-Optimize Windows with one-click system tweaks:
+> Customize Windows to match your preferred experience:
+* Dark Theme
+* Center Taskbar
+* Taskbar Search
+* Sticky Keys
+* Num Lock on Boot
+* Show File Extensions
+* Show Hidden Files
+* Disable Mouse Acceleration
+* GS Ultimate Power Plan
+* Multiplane Overlay (MPO)
+* Modern Standby
+* Detailed BSOD
+* Verbose Logon Messages
+* Disable Start Menu Recommendations
+* Disable Bing Search
+* Disable Cross Device Experience
+* Disable New Outlook
+* Hide Task View Button
+* Disable Settings Home Page
+* Revert Windows 11 Start Menu
 
-- Disk Cleanup
-- Services Optimization
-- Disable Telemetry
-- Disable Location Services
-- Remove Widgets
-- Disable Consumer Features
-- Disable Hibernation
-- Disable PowerShell 7 Telemetry
-- Disable Activity History
-- Disable WPBT
-- Disable Explorer Network Auto Discovery
-- Add **End Task** to Taskbar
-- Disable Microsoft Store Search
-- Delete Temporary Files
+### System Repair
 
----
-
-## Windows Preferences
-
-Customize Windows to match your preferred experience:
-
-- Dark Theme
-- Center Taskbar
-- Taskbar Search
-- Sticky Keys
-- Num Lock on Boot
-- Show File Extensions
-- Show Hidden Files
-- Disable Mouse Acceleration
-- GS Ultimate Power Plan
-- Multiplane Overlay (MPO)
-- Modern Standby
-- Detailed BSOD
-- Verbose Logon Messages
-- Disable Start Menu Recommendations
-- Disable Bing Search
-- Disable Cross Device Experience
-- Disable New Outlook
-- Hide Task View Button
-- Disable Settings Home Page
-- Revert Windows 11 Start Menu
-
----
-
-## System Repair
-
-Built-in Windows repair utilities with enhanced monitoring:
-
-- System File Checker (SFC)
-- Deployment Image Servicing and Management (DISM)
-- Check Disk (CHKDSK)
-  - Live Progress Tracking
-  - Always-On-Top Floating Progress Window
+> Built-in Windows repair utilities with enhanced monitoring:
+* Disk Corruption Scan
+* System File Checker
+* Windows Image Repair
+* Network Adapter Reset
+  * Live Progress Tracking
+  * Always-On-Top Floating Progress Window
 
 ---
 
 ### Game Library
 
-Manage and optimize supported games with built-in FPS prediction.
+> Manage and optimize supported games with built-in FPS prediction.
 
 **18 supported titles:**
-Apex Legends, Valorant, CS2, Fortnite, Overwatch 2, League of Legends, Rocket League, Dead by Daylight, Marvel Rivals, Arc Raiders, Rust, Minecraft, R.E.P.O., COD Warzone, COD Black Ops 6, COD Black Ops 7, Rainbow Six Siege, PUBG
+* Apex Legends
+* Valorant
+* Counter-Strike 2 (CS2)
+* Fortnite
+* Overwatch 2
+* League of Legends
+* Rocket League
+* Dead by Daylight
+* Marvel Rivals
+* ARC Raiders
+* Rust
+* Minecraft
+* R.E.P.O.
+* Call of Duty: Warzone
+* Call of Duty: Black Ops 6
+* Call of Duty: Black Ops 7
+* Rainbow Six Siege
+* PUBG
 
-- Per-game profile editor (full read/write for Apex Legends, framework in place for more)
-- Per-game config file read/write with optional read-only lock
-- **FPS Predictor** at 1080p / 1440p / 4K with verdicts (Runs Excellent, Runs Smooth, Might Lag, Can't Run)
-- Hardware vs game requirements comparison
-- Resolution builder (16:9, 16:10, 4:3, custom)
+* Per-game profile editor (full read/write for Apex Legends, framework in place for more)
+* Per-game config file read/write with optional read-only lock
+* **FPS Predictor** at 1080p / 1440p / 4K with verdicts (Runs Excellent, Runs Smooth, Might Lag, Can't Run)
+* Hardware vs game requirements comparison
+* Resolution builder (16:9, 16:10, 4:3, custom)
 
 ---
 
 ### Stream (OBS Presets + Dual-PC Wizard)
 
-- One-click OBS preset deployment: Gaming, Starting Soon, BRB, Ending
-- Twitch-tuned encoder + audio settings
-- Auto-detects OBS install and launches after deploying
-- **Dual-PC Wizard** — guided setup for streaming + gaming dual-PC: NDI vs capture card, audio routing, OBS scenes, NDI presets per link speed, troubleshooter
+* One-click OBS preset deployment: Gaming, Starting Soon, BRB, Ending
+* Twitch-tuned encoder + audio settings
+* Auto-detects OBS install and launches after deploying
+* **Dual-PC Wizard** — guided setup for streaming + gaming dual-PC: NDI vs capture card, audio routing, OBS scenes, NDI presets per link speed, troubleshooter
 
 ---
 
 ### Network Diagnostics
 
-- Ping tests to 10 regional gaming servers (NA East/West, EU West/Central, Asia, Southeast Asia, South America, Middle East, Oceania, Africa)
-- Speed tests via Fast.com, Ookla Speedtest, testmy.net (sandboxed webview)
-- Color-coded latency tiers (green ≤50 ms, yellow ≤100 ms, red >100 ms)
-- Traceroute
+* Ping tests to 10 regional gaming servers (NA East/West, EU West/Central, Asia, Southeast Asia, South America, Middle East, Oceania, Africa)
+* Speed tests via Fast.com, Ookla Speedtest, testmy.net (sandboxed webview)
+* Color-coded latency tiers (green ≤50 ms, yellow ≤100 ms, red >100 ms)
+* Traceroute
 
 ---
 
 ### Devices (Resolution & Mouse)
 
-- Active display list with adapter, current resolution and refresh rate
-- Enumerate every supported W × H × Hz mode per display
-- Apply any supported mode via native C# helper (`ResolutionHelper.exe`)
-- **Mouse Polling Rate Test** — live polling-rate sampler with smoothed readout
+* Active display list with adapter, current resolution and refresh rate
+* Enumerate every supported W × H × Hz mode per display
+* Apply any supported mode via native C# helper (`ResolutionHelper.exe`)
+* **Mouse Polling Rate Test** — live polling-rate sampler with smoothed readout
 
 ---
 
