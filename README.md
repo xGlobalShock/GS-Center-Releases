@@ -35,14 +35,13 @@ Explore GS Center and discover a complete suite of features built to optimize, m
 
 - You are more than welcome to try GS Center and share your feedback, suggestions, and bug reports to help us continue improving the experience.
 
-
 ---
 
 ## Features
 
-## Dashboard & Live Metrics
+### Dashboard & Live Metrics
 
-Monitor your system performance in real time with detailed hardware insights.
+> Monitor your system performance in real time with detailed hardware insights.
 
 ### CPU Monitoring
 
