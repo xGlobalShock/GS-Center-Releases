@@ -243,8 +243,8 @@ Explore GS Center and discover a complete suite of features built to optimize, m
 * System File Checker
 * Windows Image Repair
 * Network Adapter Reset
-  * Live Progress Tracking
-  * Always-On-Top Floating Progress Window
+  - Live Progress Tracking
+  - Always-On-Top Floating Progress Window
 
 ---
 
@@ -271,7 +271,7 @@ Explore GS Center and discover a complete suite of features built to optimize, m
 * Call of Duty: Black Ops 7
 * Rainbow Six Siege
 * PUBG
-
+##
 * Per-game profile editor (full read/write for Apex Legends, framework in place for more)
 * Per-game config file read/write with optional read-only lock
 * **FPS Predictor** at 1080p / 1440p / 4K with verdicts (Runs Excellent, Runs Smooth, Might Lag, Can't Run)
@@ -280,12 +280,41 @@ Explore GS Center and discover a complete suite of features built to optimize, m
 
 ---
 
-### Stream (OBS Presets + Dual-PC Wizard)
+# Stream
 
-* One-click OBS preset deployment: Gaming, Starting Soon, BRB, Ending
-* Twitch-tuned encoder + audio settings
-* Auto-detects OBS install and launches after deploying
-* **Dual-PC Wizard** — guided setup for streaming + gaming dual-PC: NDI vs capture card, audio routing, OBS scenes, NDI presets per link speed, troubleshooter
+*Professional streaming tools with OBS Studio presets and a guided Dual-PC setup wizard.*
+
+## OBS Studio Presets
+
+> Deploy optimized OBS configurations with one click:
+* Gaming Scene Preset
+* Starting Soon Scene Preset
+* BRB Scene Preset
+* Ending Scene Preset
+
+## Streaming Optimization
+
+> Optimize your stream setup with platform-focused configurations:
+* Twitch-Tuned Encoder Settings
+* Optimized Audio Settings
+* Automatic OBS Installation Detection
+* Automatically Launch OBS After Deployment
+
+*We will be adding StreamLabs and Meld Studio Presets in the future*
+
+##
+
+## Dual-PC Wizard
+
+> A guided setup assistant for professional dual-PC streaming configurations.
+
+Includes:
+* Gaming PC + Streaming PC Setup Guide
+* NDI vs Capture Card Comparison
+* Audio Routing Configuration
+* OBS Studio Scene Setup
+* NDI Presets Based on Network Link Speed
+* Dual-PC Streaming Troubleshooter
 
 ---
 
