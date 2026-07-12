@@ -40,22 +40,14 @@ No unnecessary setup. No complexity. Just complete control.
 
 ## Upgrade to PRO
 
-#### PRO Core (Current Plan - Full Access)
-> - 1 Month - $4.99/mo
-> - 6 Months - $24.99/mo (Save ~17%)
-> - 1 Year - $44.99/mo (Save ~25%)
+#### PRO Core (Current Plan — Full Access)
+> - 1 Month — $4.99/month  
+> - 6 Months — $24.99/month (Save ~17%)  
+> - 1 Year — $44.99/month (Save ~25%)
 
-#### PRO Boost (Coming Soon)
-> - 1 Month
-> - 6 Months
-> - 1 Year
+**Additional plans, including PRO Boost and PRO Max, are planned for future releases. Availability and release timing will be announced at a later date.**
 
-#### PRO Max (Coming Soon)
-> - 1 Month
-> - 6 Months
-> - 1 Year
-
-*Pricing shown is preliminary and may change before official release.*
+*Pricing is preliminary and subject to change before the official release.*
 
 ---
 
@@ -76,17 +68,97 @@ No unnecessary setup. No complexity. Just complete control.
 
 ## Features
 
-### Dashboard & Live Metrics
+## Dashboard & Live Metrics
 
-- **CPU** - usage, per-core load, clock, power, voltage, temperature
-- **GPU** - load, VRAM, core/memory clock, fan RPM, power, temperature, hotspot temp
-- **RAM** - used/total, available, cached, standby, top processes by RAM
-- **Disk** - read/write speed, temperature, lifespan, free/total per drive
-- **Network** - up/down speed, latency, packet loss, SSID, signal, adapter info
-- **System** - process count, uptime, Windows build, power plan
-- **Health Score** - 0–100 composite from CPU temp, usage, RAM pressure, disk space, GPU temp, latency, disk health
-- **Advisor Panel** - system insights (critical / warning / good) and hardware upgrade recommendations
-- **Anti-Cheat Compatibility Checker** - flags processes and tweaks that could trigger Vanguard, EAC, BattlEye, FACEIT, or Ricochet
+Monitor your system performance in real time with detailed hardware insights.
+
+### CPU Monitoring
+
+- CPU Usage
+- Per-Core Load
+- Clock Speed
+- Power Consumption
+- Voltage
+- Temperature
+
+### GPU Monitoring
+
+- GPU Load
+- VRAM Usage
+- Core Clock
+- Memory Clock
+- Fan RPM
+- Power Consumption
+- GPU Temperature
+- Hotspot Temperature
+
+### RAM Monitoring
+
+- Used / Total Memory
+- Available Memory
+- Cached Memory
+- Standby Memory
+- Top Processes by RAM Usage
+
+### Disk Monitoring
+
+- Read / Write Speed
+- Drive Temperature
+- Drive Health / Lifespan
+- Free / Total Storage Per Drive
+
+### Network Monitoring
+
+- Upload / Download Speed
+- Latency
+- Packet Loss
+- Connected SSID
+- Signal Strength
+- Network Adapter Information
+
+### System Information
+
+- Active Process Count
+- System Uptime
+- Windows Build Version
+- Current Power Plan
+
+### Health Score
+
+A 0–100 system health rating calculated from:
+
+- CPU Temperature
+- CPU Usage
+- RAM Pressure
+- Available Disk Space
+- GPU Temperature
+- Network Latency
+- Disk Health
+
+### Advisor Panel
+
+Provides intelligent system recommendations:
+
+- Critical Issues Detection
+- Warning Alerts
+- System Health Status
+- Hardware Upgrade Recommendations
+
+### Anti-Cheat Compatibility Checker
+
+Detects potential conflicts with competitive gaming anti-cheat systems:
+
+- Vanguard
+- Easy Anti-Cheat (EAC)
+- BattlEye
+- FACEIT Anti-Cheat
+- Ricochet
+
+Checks for:
+
+- Problematic Processes
+- System Tweaks
+- Potential Compatibility Issues
 
 ---
 
@@ -109,19 +181,123 @@ No unnecessary setup. No complexity. Just complete control.
 
 ---
 
-### Cleanup Toolkit (42+ Cleaners)
+# Cleanup Toolkit
 
-**Windows Cache** - Temp files, Windows Update cache, DNS cache, RAM standby, Recycle Bin, Thumbnail cache, Logs, Crash dumps, Error reports, Delivery Optimization
+A powerful collection of **42+ system cleaners, optimizations, and repair tools** designed to keep your PC running at peak performance.
 
-**Game Shader Caches** - Apex Legends, CS2, Fortnite, Forza Horizon 5, League of Legends, Overwatch 2, Rainbow Six Siege, Rocket League, Valorant, Dead by Daylight, Marvel Rivals, Arc Raiders, PUBG, Rust, R.E.P.O.
+---
 
-**GPU Driver Cache** - NVIDIA (DXCache/GLCache), AMD
+## Windows Cleanup
 
-**Win Tweaks** - Disk Cleanup, Services Optimization, Disable Telemetry, Disable Location, Remove Widgets, Disable Consumer Features, Disable Hibernation, PowerShell 7 Telemetry, Disable Activity History, Disable WPBT, Disable Explorer Auto Discovery, End Task on Taskbar, Disable Store Search, Delete Temp Files
+Clean common Windows junk files and caches:
 
-**Win Preferences** - Dark Theme, Center Taskbar, Search on Taskbar, Sticky Keys, Numlock on Boot, Show File Extensions, Show Hidden Files, Mouse Acceleration, GS Power Plan, Multiplane Overlay, Modern Standby, Detailed BSOD, Verbose Logon, Start Menu Recommendations, Bing Search, Cross Device, New Outlook, Task View Button, Settings Home Page, Revert Start Menu
+- Temporary Files
+- Windows Update Cache
+- DNS Cache
+- RAM Standby List
+- Recycle Bin
+- Thumbnail Cache
+- System Logs
+- Crash Dumps
+- Error Reports
+- Delivery Optimization Cache
 
-**System Repair** - SFC, DISM, ChkDsk with live progress and a floating always-on-top overlay window
+---
+
+## Game Shader Cache Cleanup
+
+Clear shader caches for supported games:
+
+- Apex Legends
+- Counter-Strike 2 (CS2)
+- Fortnite
+- Forza Horizon 5
+- League of Legends
+- Overwatch 2
+- Rainbow Six Siege
+- Rocket League
+- Valorant
+- Dead by Daylight
+- Marvel Rivals
+- ARC Raiders
+- PUBG
+- Rust
+- R.E.P.O.
+
+---
+
+## GPU Driver Cache Cleanup
+
+Remove cached GPU driver files to resolve shader and rendering issues.
+
+### NVIDIA
+
+- DXCache
+- GLCache
+
+### AMD
+
+- Driver Cache
+
+---
+
+## Windows Tweaks
+
+Optimize Windows with one-click system tweaks:
+
+- Disk Cleanup
+- Services Optimization
+- Disable Telemetry
+- Disable Location Services
+- Remove Widgets
+- Disable Consumer Features
+- Disable Hibernation
+- Disable PowerShell 7 Telemetry
+- Disable Activity History
+- Disable WPBT
+- Disable Explorer Network Auto Discovery
+- Add **End Task** to Taskbar
+- Disable Microsoft Store Search
+- Delete Temporary Files
+
+---
+
+## Windows Preferences
+
+Customize Windows to match your preferred experience:
+
+- Dark Theme
+- Center Taskbar
+- Taskbar Search
+- Sticky Keys
+- Num Lock on Boot
+- Show File Extensions
+- Show Hidden Files
+- Disable Mouse Acceleration
+- GS Ultimate Power Plan
+- Multiplane Overlay (MPO)
+- Modern Standby
+- Detailed BSOD
+- Verbose Logon Messages
+- Disable Start Menu Recommendations
+- Disable Bing Search
+- Disable Cross Device Experience
+- Disable New Outlook
+- Hide Task View Button
+- Disable Settings Home Page
+- Revert Windows 11 Start Menu
+
+---
+
+## System Repair
+
+Built-in Windows repair utilities with enhanced monitoring:
+
+- System File Checker (SFC)
+- Deployment Image Servicing and Management (DISM)
+- Check Disk (CHKDSK)
+  - Live Progress Tracking
+  - Always-On-Top Floating Progress Window
 
 ---
 
