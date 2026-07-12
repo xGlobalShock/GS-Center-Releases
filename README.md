@@ -351,6 +351,8 @@ Includes:
 - Network Route Inspection
 - Connection Path Troubleshooting
 
+---
+
 ### Devices (Resolution & Mouse)
 
 * Active display list with adapter, current resolution and refresh rate
