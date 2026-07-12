@@ -5,17 +5,6 @@
 <p align="center">
   <strong>A complete performance control hub designed to optimize, manage, and enhance your Windows experience.</strong>
 </p>
-
-##
-
-<p align="center">
-  🇬​​​​​🇸​​​​​ 🇨​​​​​🇪​​​​​🇳​​​​​🇹​​​​​🇪​​​​​🇷​​​​​ 🇮​​​​​🇸​​​​​ 🇨​​​​​🇺​​​​​🇷​​​​​🇷​​​​​🇪​​​​​🇳​​​​​🇹​​​​​🇱​​​​​🇾​​​​​ 🇮​​​​​🇳​​​​​ 🇩​​​​​🇪​​​​​🇻​​​​​🇪​​​​​🇱​​​​​🇴​​​​​🇵​​​​​🇲​​​​​🇪​​​​​🇳​​​​​🇹​​​​​ 🇦​​​​​🇳​​​​​🇩​​​​​ 🇮​​​​​🇸​​​​​ 🇦​​​​​🇻​​​​​🇦​​​​​🇮​​​​​🇱​​​​​🇦​​​​​🇧​​​​​🇱​​​​​🇪​​​​​ 🇹​​​​​🇴​​​​​ 🇦​​​​​ 🇱​​​​​🇮​​​​​🇲​​​​​🇮​​​​​🇹​​​​​🇪​​​​​🇩​​​​​ 🇬​​​​​🇷​​​​​🇴​​​​​🇺​​​​​🇵​​​​​ 🇴​​​​​🇫​​​​​ 🇹​​​​​🇪​​​​​🇸​​​​​🇹​​​​​🇪​​​​​🇷​​​​​🇸​​​​​.<br>​​​​​
-  🇹​​​​​🇭​​​​​🇮​​​​​🇸​​​​​ 🇦​​​​​🇱​​​​​🇱​​​​​🇴​​​​​🇼​​​​​🇸​​​​​ 🇺​​​​​🇸​​​​​ 🇹​​​​​🇴​​​​​ 🇬​​​​​🇦​​​​​🇹​​​​​🇭​​​​​🇪​​​​​🇷​​​​​ 🇻​​​​​🇦​​​​​🇱​​​​​🇺​​​​​🇦​​​​​🇧​​​​​🇱​​​​​🇪​​​​​ 🇫​​​​​🇪​​​​​🇪​​​​​🇩​​​​​🇧​​​​​🇦​​​​​🇨​​​​​🇰​​​​​, 🇮​​​​​🇲​​​​​🇵​​​​​🇷​​​​​🇴​​​​​🇻​​​​​🇪​​​​​ 🇹​​​​​🇭​​​​​🇪​​​​​ 🇦​​​​​🇵​​​​​🇵​​​​​🇱​​​​​🇮​​​​​🇨​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​, 🇦​​​​​🇳​​​​​🇩​​​​​ 🇮​​​​​🇩​​​​​🇪​​​​​🇳​​​​​🇹​​​​​🇮​​​​​🇫​​​​​🇾​​​​​ 🇦​​​​​🇳​​​​​🇩​​​​​ 🇷​​​​​🇪​​​​​🇸​​​​​🇴​​​​​🇱​​​​​🇻​​​​​🇪​​​​​ 🇧​​​​​🇺​​​​​🇬​​​​​🇸​​​​​ 🇧​​​​​🇪​​​​​🇫​​​​​🇴​​​​​🇷​​​​​🇪​​​​​ 🇹​​​​​🇭​​​​​🇪​​​​​ 🇴​​​​​🇫​​​​​🇫​​​​​🇮​​​​​🇨​​​​​🇮​​​​​🇦​​​​​🇱​​​​​ 🇷​​​​​🇪​​​​​🇱​​​​​🇪​​​​​🇦​​​​​🇸​​​​​🇪​​​​​.
-  <br><br>
-  🇾​​​​​🇴​​​​​🇺​​​​​ 🇦​​​​​🇷​​​​​🇪​​​​​ 🇲​​​​​🇴​​​​​🇷​​​​​🇪​​​​​ 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​ 🇼​​​​​🇪​​​​​🇱​​​​​🇨​​​​​🇴​​​​​🇲​​​​​🇪​​​​​ 🇹​​​​​🇴​​​​​ 🇹​​​​​🇷​​​​​🇾​​​​​ 🇬​​​​​🇸​​​​​ 🇨​​​​​🇪​​​​​🇳​​​​​🇹​​​​​🇪​​​​​🇷​​​​​ 🇦​​​​​🇳​​​​​🇩​​​​​ 🇸​​​​​🇭​​​​​🇦​​​​​🇷​​​​​🇪​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​🇷​​​​​ 🇫​​​​​🇪​​​​​🇪​​​​​🇩​​​​​🇧​​​​​🇦​​​​​🇨​​​​​🇰​​​​​ 🇹​​​​​🇴​​​​​ 🇭​​​​​🇪​​​​​🇱​​​​​🇵​​​​​ 🇺​​​​​🇸​​​​​ 🇲​​​​​🇦​​​​​🇰​​​​​🇪​​​​​ 🇮​​​​​🇹​​​​​ 🇧​​​​​🇪​​​​​🇹​​​​​🇹​​​​​🇪​​​​​🇷​​​​​!
-  
-##
-
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge">&nbsp;
@@ -25,44 +14,27 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/681f30a9-79da-482f-905a-e05a3742de9d"></video>
+  <video src="https://github.com/user-attachments/assets/174c0772-b3ee-4bf3-b20a-0686200fd37d"></video>
 </p>
 
 ## Overview
 
-GS Center is a powerful desktop application built for gamers, streamers, and performance-focused users who want complete control over their system from one place.
+GS Center is an advanced Windows performance management platform designed for gamers, creators, streamers, and power users who demand more from their systems.
 
-It combines real-time monitoring, registry-level optimizations, cleanup tools, system management, game configuration, and streaming setup into a single streamlined experience.
+Built as an all-in-one control center, GS Center brings together hardware monitoring, system optimization, gaming enhancements, cleanup utilities, application management, network diagnostics, streaming tools, and intelligent system analysis into one modern and easy-to-use experience.
 
-No unnecessary setup. No complexity. Just complete control.
+Whether you want to improve gaming performance, maintain system health, troubleshoot problems, customize Windows, or manage your entire PC from a single application, GS Center provides the tools and insights needed to take full control of your setup.
 
----
+Explore GS Center and discover a complete suite of features built to optimize, manage, and enhance your Windows experience.
 
-## Upgrade to PRO
+##
 
-#### PRO Core (Current Plan — Full Access)
-> - 1 Month — $4.99/month  
-> - 6 Months — $24.99/month (Save ~17%)  
-> - 1 Year — $44.99/month (Save ~25%)
+**Note:**
 
-**Additional plans, including PRO Boost and PRO Max, are planned for future releases. Availability and release timing will be announced at a later date.**
+- GS Center is currently under development and is available to a limited group of testers. This testing phase allows us to gather valuable feedback, improve the application, and identify and resolve issues before the official release.
 
-*Pricing is preliminary and subject to change before the official release.*
+- You are more than welcome to try GS Center and share your feedback, suggestions, and bug reports to help us continue improving the experience.
 
----
-
-### **Included with PRO Basic ($4.99/month)**
-
-* Unlock System Advisor
-* Unlock Anti-Cheat
-* Unlock All Registry Tweaks
-* Unlock Set Services to Manual (Windows Tweaks)
-* Unlock Stream Dual-PC Guide
-* Unlock Apps Uninstaller
-* Unlock Windows Debloat
-* Unlock Windows Cache
-* Unlock System Repair
-* Unlock ISO Builder
 
 ---
 
@@ -399,6 +371,34 @@ Exportable one-page system snapshot including specifications, performance status
 - **Peformance** - GPU Acceleration, Render Quality
 - **Appearance** - Theme, Light Effect, Background
 - **About** - Version, Channel Update, What's new, Privacy
+
+---
+
+## Upgrade to PRO
+
+#### PRO Core (Current Plan — Full Access)
+> - 1 Month — $4.99/month  
+> - 6 Months — $24.99/month (Save ~17%)  
+> - 1 Year — $44.99/month (Save ~25%)
+
+**Additional plans, including PRO Boost and PRO Max, are planned for future releases. Availability and release timing will be announced at a later date.**
+
+*Pricing is preliminary and subject to change before the official release.*
+
+---
+
+### **Included with PRO Basic ($4.99/month)**
+
+* Unlock System Advisor
+* Unlock Anti-Cheat
+* Unlock All Registry Tweaks
+* Unlock Set Services to Manual (Windows Tweaks)
+* Unlock Stream Dual-PC Guide
+* Unlock Apps Uninstaller
+* Unlock Windows Debloat
+* Unlock Windows Cache
+* Unlock System Repair
+* Unlock ISO Builder
 
 ---
 
