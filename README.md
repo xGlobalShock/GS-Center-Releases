@@ -373,7 +373,7 @@ Includes:
 
 **Disk Analyzer (Pro)** - Recursive directory scanning with drive selector, context menu, LRU caching, protected paths excluded.
 
-**Windows 11 ISO Builder (Pro)**
+**Windows 11 ISO Builder**
 
 Import a stock Windows 11 ISO and apply up to 14 modifications:
 
@@ -396,7 +396,7 @@ Output: a new ISO or a bootable USB. Optional driver injection.
 
 ---
 
-### Software Updates (Pro)
+### Software Updates
 
 Scan and update installed software.
 
