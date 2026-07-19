@@ -420,58 +420,6 @@ Exportable one-page system snapshot including specifications, performance status
 
 ---
 
-## Upgrade to PRO
-
-#### PRO Core (Current Plan — Full Access)
-> - 1 Month — $4.99/month  
-> - 6 Months — $24.99/month (Save ~17%)  
-> - 1 Year — $44.99/month (Save ~25%)
-
-**Additional plans, including PRO Boost and PRO Max, are planned for future releases. Availability and release timing will be announced at a later date.**
-
-*Pricing is preliminary and subject to change before the official release.*
-
----
-
-### **Included with PRO Basic ($4.99/month)**
-
-* Unlock System Advisor
-* Unlock Anti-Cheat
-* Unlock All Registry Tweaks
-* Unlock Set Services to Manual (Windows Tweaks)
-* Unlock Stream Dual-PC Guide
-* Unlock Apps Uninstaller
-* Unlock Windows Debloat
-* Unlock Windows Cache
-* Unlock System Repair
-* Unlock ISO Builder
-
----
-
-## System Requirements
-
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10 or Windows 11 (64-bit) |
-| Runtime | .NET 8.0 (bundled with installer) |
-| Permissions | Administrator access (for registry tweaks, service management, system repair, ISO builder) |
-| Internet | Required for auth, updates, speed tests, AI agent |
-
----
-
-## Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| Frontend | React 18, TypeScript, Framer Motion |
-| Build | Create React App (react-scripts 5) |
-| Desktop | Electron 33 |
-| WebGL | OGL (light ray effects) |
-| Hardware Monitor | Native C# .NET 8 sidecar |
-| Auth & Database | Supabase (Discord / Twitch OAuth) |
-
----
-
 ## Support
 
 Open an issue: https://github.com/xGlobalShock/GS-Center-Releases/issues
@@ -480,22 +428,20 @@ View Releases: https://github.com/xGlobalShock/GS-Center-Releases/releases
 
 View Privacy:  https://github.com/xGlobalShock/GS-Center-Releases/blob/main/PRIVACY.md
 
-View Roadmap:  Updating this soon...
-
 ---
 
 ## Inspired By
 
 A number of excellent projects inspired ideas, workflows, and features found throughout GS Center. Recognition goes to the creators of the following applications:
 
-- Christitus
-- Winhance
-- Windshark
-- UniGetUI
-- Revo Uninstaller
-- Treesize
-- Grafana
-- Win11Debloat
+- [Chris Titus Tech (WinUtil)](https://christitus.com/win)
+- [Winhance](https://winhance.net)
+- [Windhawk](https://windhawk.net)
+- [UniGetUI](https://devolutions.net/unigetui/)
+- [Revo Uninstaller](https://www.revouninstaller.com/)
+- [TreeSize](https://www.jam-software.com/treesize)
+- [Grafana](https://grafana.com/)
+- [Win11Debloat](https://win11debloat.net/)
 
 ---
 
