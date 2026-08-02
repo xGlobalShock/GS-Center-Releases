@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BETA-orange?style=for-the-badge">&nbsp;
-  <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/download/v2.9.7/GS-Center-Setup-2.9.7.exe"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/xGlobalShock/GS-Center-Releases/releases/download/v2.9.8/GS-Center-Setup-2.9.8.exe"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/xGlobalShock/GS-Center-Releases"><img src="https://img.shields.io/badge/Releases-GitHub-blue?style=for-the-badge"></a>&nbsp;
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge">&nbsp;
 </p>
