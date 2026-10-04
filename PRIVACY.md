@@ -70,7 +70,7 @@ Supabase (our authentication and database provider).
 
 ### 2. Your Pro / subscription status
 
-Your account role (Free, Pro, etc.) and any subscription expiry are stored
+Your account role (Free, Pro, Pro+, Ultimate) and any subscription expiry are stored
 in our Supabase database so the app knows which features to unlock. If you
 buy Pro, payment is processed through **PayPal** - GS Center never sees or
 stores your card details. We only learn that a payment succeeded.
