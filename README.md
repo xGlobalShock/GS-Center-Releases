@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge">&nbsp;
 </p>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/671f61a4-dac2-4c78-b493-a6eb45e0d432"></video>
-</p>
+<img width="1479" height="858" alt="image" src="https://github.com/user-attachments/assets/7b4a67d2-b9bb-490d-bb5e-ab26c6ccb704" />
 
 
 ## Overview
