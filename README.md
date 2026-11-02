@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0078D6?style=for-the-badge">&nbsp;
 </p>
 
-<img width="1479" height="858" alt="image" src="https://github.com/user-attachments/assets/7b4a67d2-b9bb-490d-bb5e-ab26c6ccb704" />
-
+https://github.com/user-attachments/assets/3a153a48-d7a8-48ec-a05e-0f172e7a6b79
 
 ## Overview
 
